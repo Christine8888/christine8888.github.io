@@ -101,6 +101,8 @@
                     </form>
                 </div>
             </div>
+            <br>
+            <p>Christine's note: I originally made this site in 2019. It took 10th-grade me, equipped with AP Computer Science Principles, around 5 hours to work out all the code. In 2024, I used Cursor to clean up the code, and I think with a good prompt Claude 3.5 Sonnet could've created this whole demo in around a minute. </p>
         </div>
         <br>
 
@@ -170,7 +172,7 @@
                 ctx.fillStyle = 'black';
                 ctx.font = '14px Arial, sans-serif';
                 for (let i = -15; i <= 14; i += 5) {
-                    const y = 550 - ((i + 15) / 29) * 500;
+                    const y = 550 - (((-1 * i) + 10) / 25) * 500;
                     ctx.fillText(i.toString(), 25, y);
                 }
 
@@ -178,12 +180,18 @@
                 ctx.font = '18px Arial, sans-serif';
                 ctx.fillStyle = 'black';
                 ctx.fillText('B-V Color Index', 350, 595);
+                ctx.font = '16px Arial, sans-serif';
+                ctx.fillText('redder', 600, 595);
+                ctx.fillText('bluer', 150, 595);
 
                 // Y-axis label
                 ctx.save();
                 ctx.translate(15, 300);
                 ctx.rotate(-Math.PI / 2);
                 ctx.fillText('Absolute Magnitude', -50, 0);
+                ctx.font = '16px Arial, sans-serif';
+                ctx.fillText('dimmer', -200, 0);
+                ctx.fillText('brighter', 200, 0);
                 ctx.restore();
 
                 // Plot stars
@@ -208,7 +216,7 @@
                     return;
                 }
 
-                const y = 550 - ((magnitude + 15) / 29) * 500;
+                const y = 550 - ((-1 * magnitude + 10) / 25) * 500;
                 const x = 50 + (BV + 0.5) * 280;
 
                 const colors = ['#00BBFF', '#A6E1F5', '#F0F0FF', '#EFF5BA', '#FFFF00', '#F7A82A', '#FF0000'];

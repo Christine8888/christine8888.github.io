@@ -1,142 +1,62 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christine Ye</title>
     <style>
-         h1{
-           font-family: Helvetica Narrow, sans-serif;
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #E6E6FA; /* Light purple background */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
         }
-        p{
-         font-family: Helvetica Narrow, sans-serif;
+        .container {
+            width: 66.67%; /* 2/3 of the screen width */
+            background-color: white;
+            padding: 2rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-top: 2rem;
         }
-      </style>
-    <h1>
-      Radioactive Decay Simulation Lab
-    </h1>
-    <p id="dicerollcounter">
-      Dice Rolls: 0
-    </p>
-    <p id ="whitecount">
-      White Squares: 100
-    </p>
-    <div id="container">
-    <style>
-          .cell1 {
-        border: 1px solid gray;
-        min-width: 20px;
-        min-height: 20px;
-        display: inline-block;
-        margin-right: 2px;
-        background-color: white;
-      }
-      .cell2 {
-        border: 1px solid gray;
-        min-width: 20px;
-        min-height: 20px;
-        display: inline-block;
-        margin-right: 2px;
-        background-color: black;
-      }
-      button {
-        margin-top: 0px;
-        line-height: 60px;
-        font-weight: bold;
-        padding: 0px 40px;
-        background: dodgerblue;
-        border: none;
-        margin-bottom:20px;
-      }
-      button:hover {
-        background: deepskyblue;
-      }
+        h1, h2 {
+            color: #333;
+        }
+        .links {
+            margin-top: 1rem;
+        }
+        .links a {
+            margin-right: 1rem;
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
     </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Christine Ye</h1>
+            <p>Hi, I'm Christine. I'm a current student at Stanford University, where I study Physics and Mathematics, dance with the Cardinal Ballet Comopany, and design for FashionX. 
+                My current research focus is in interpretability and alignment for artificial intelligence. I'm interested in theories of when, how, and why models learn.
+
+                Previously, 
+            </p>
+        </header>
+        
+        <section id="links" class="links">
+            <a href="https://www.linkedin.com/in/christine-y/">LinkedIn</a>
+            <a href="https://github.com/Christine8888">GitHub</a>
+            <a href="https://x.com/christinexye">Twitter/X</a>
+        </section>
+        
+        <section id="projects" class="links">
+            <h2>Miscellaneous</h2>
+            <a href="diceroll.html">Radioactive Decay Simulation Lab</a>
+        </section>
     </div>
-    <script>
-            //Sets important constants and variables
-
-      const container = document.getElementById("container");
-      let rows = document.getElementsByClassName("gridRow");
-      let cells = document.getElementsByClassName("cell");
-      var array = new Array(10);
-      var numRolls=0;
-
-      for (var i = 0; i < array.length; i++) { 
-          array[i] = new Array(10); 
-      } 
-      for(var i=0;i<array.length;i++){
-        for(var j=0;j<array[i].length;j++){
-            array[i][j]=0;
-        }
-      }
-
-      var button = document.createElement("button");
-      button.innerHTML = "Roll Dice";
-
-      container.appendChild(button);
-
-      button.addEventListener ("click", function() {
-        rollDice();
-      });
-
-      defaultGrid();
-      //Creates a default grid sized 16x16 
-      function defaultGrid() {
-          makeRows(10);
-          makeColumns(10);
-      }
-
-      //Takes (rows, columns) input and makes a grid
-      function makeRows(rowNum) {
-          //Creates rows
-          for (r = 0; r < rowNum; r++) {
-              let row = document.createElement("div");
-              container.appendChild(row).className = "gridRow";
-          }
-      }
-
-      //Creates columns
-      function makeColumns(cellNum) {
-        var whitecounter=0;
-          for (i = 0; i < 10; i++) {
-              for (j = 0; j < cellNum; j++) {
-                  let newCell = document.createElement("div");
-                  if(array[i][j]==0){
-                    rows[i].appendChild(newCell).className = "cell1";
-                    whitecounter++;
-                    console.log(whitecounter);
-                  }else{
-                    rows[i].appendChild(newCell).className = "cell2";
-                  }
-              }
-
-          }
-          document.getElementById("whitecount").innerHTML = "White Count: "+whitecounter;
-      }
-
-      function rollDice(){
-        for (i = 0; i < array.length; i++) {
-              for (j = 0; j < array[0].length; j++) {
-                  if(array[i][j]==0){
-                    var diceRoll = Math.ceil(Math.random()*6);
-                    if(diceRoll==1){
-                      array[i][j]=1;
-                    }
-                  }
-
-          }
-        }
-        numRolls++;
-        document.getElementById("dicerollcounter").innerHTML = "Dice Rolls: "+numRolls;
-        updateCells();
-        defaultGrid();
-      }
-      function updateCells() {
-        document.querySelectorAll('.cell1').forEach(function(a){
-          a.remove()
-        })
-        document.querySelectorAll('.cell2').forEach(function(a){
-          a.remove()
-        })
-      }
-    </script>
-   </body>
+</body>
 </html>

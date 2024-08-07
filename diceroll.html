@@ -1,143 +1,171 @@
 <!doctype html>
 <html lang="en">
-  <body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radioactive Decay Simulation Lab</title>
     <style>
-         h1{
-           font-family: Helvetica Narrow, sans-serif;
+        body {
+            font-family: "Helvetica Narrow", Arial, sans-serif;
+            background-color: #E6E6FA;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
         }
-        p{
-         font-family: Helvetica Narrow, sans-serif;
+        .container {
+            width: 60%;
+            background-color: white;
+            padding: 2rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-top: 2rem;
         }
-      </style>
-    <h1>
-      Radioactive Decay Simulation Lab
-    </h1>
-    <h3>I made this site in 10th grade for my wonderful AP Physics teacher, Mr. Stratton, so we could do a radioactive decay simulation lab during COVID-induced online school. Enjoy!</h3>
-    <p id="dicerollcounter">
-      Dice Rolls: 0
-    </p>
-    <p id ="whitecount">
-      White Squares: 100
-    </p>
-    <div id="container">
-    <style>
-          .cell1 {
-        border: 1px solid gray;
-        min-width: 20px;
-        min-height: 20px;
-        display: inline-block;
-        margin-right: 2px;
-        background-color: white;
-      }
-      .cell2 {
-        border: 1px solid gray;
-        min-width: 20px;
-        min-height: 20px;
-        display: inline-block;
-        margin-right: 2px;
-        background-color: black;
-      }
-      button {
-        margin-top: 0px;
-        line-height: 60px;
-        font-weight: bold;
-        padding: 0px 40px;
-        background: dodgerblue;
-        border: none;
-        margin-bottom:20px;
-      }
-      button:hover {
-        background: deepskyblue;
-      }
+        h1, h2, h3, p {
+            color: #333;
+        }
+        .cell1 {
+            border: 1px solid gray;
+            min-width: 20px;
+            min-height: 20px;
+            display: inline-block;
+            margin-right: 2px;
+            background-color: white;
+        }
+        .cell2 {
+            border: 1px solid gray;
+            min-width: 20px;
+            min-height: 20px;
+            display: inline-block;
+            margin-right: 2px;
+            background-color: black;
+        }
+        button {
+            margin-top: 0px;
+            line-height: 60px;
+            font-weight: bold;
+            padding: 0px 20px;
+            background: rgb(123, 100, 208);
+            border: none;
+            margin-bottom: 10px;
+        }
+        button:hover {
+            background: #b59cff;
+        }
+        .slider-container {
+            margin-bottom: 20px;
+        }
+        .dice-icon {
+            font-size: 24px;
+            margin-right: 10px;
+        }
     </style>
-    </div>
-    <script>
+</head>
+<body>
+    <div class="container">
+        <h1>Radioactive Decay Simulation Lab</h1>
+        <p>I made this site in 2020 for my wonderful AP Physics teacher, Mr. Stratton, so we could do a lab during COVID-induced online school. Enjoy!</p>
+        <div class="slider-container">
+          <label for="diceSides"> <span class='dice-icon'>🎲</span> Dice Sides: <span id="diceSidesValue">6</span></label>
+          <input type="range" id="diceSides" name="diceSides" min="2" max="20" value="6">
+      </div>
+        <div id="container"></div>
+        <p id="dicerollcounter"><strong>Dice Rolls:</strong> 0</p>
+        <p id="whitecount"><strong>White Squares:</strong> 100</p>
+        <script>
             //Sets important constants and variables
+            const container = document.getElementById("container");
+            let rows = document.getElementsByClassName("gridRow");
+            let cells = document.getElementsByClassName("cell");
+            var array = new Array(10);
+            var numRolls = 0;
+            var diceSides = 6;
 
-      const container = document.getElementById("container");
-      let rows = document.getElementsByClassName("gridRow");
-      let cells = document.getElementsByClassName("cell");
-      var array = new Array(10);
-      var numRolls=0;
+            const slider = document.getElementById("diceSides");
+            const diceSidesValue = document.getElementById("diceSidesValue");
 
-      for (var i = 0; i < array.length; i++) { 
-          array[i] = new Array(10); 
-      } 
-      for(var i=0;i<array.length;i++){
-        for(var j=0;j<array[i].length;j++){
-            array[i][j]=0;
-        }
-      }
+            slider.oninput = function() {
+                diceSides = this.value;
+                diceSidesValue.innerHTML = this.value;
+            }
 
-      var button = document.createElement("button");
-      button.innerHTML = "Roll Dice";
+            for (var i = 0; i < array.length; i++) { 
+                array[i] = new Array(10); 
+            } 
+            for(var i = 0; i < array.length; i++){
+                for(var j = 0; j < array[i].length; j++){
+                    array[i][j] = 0;
+                }
+            }
 
-      container.appendChild(button);
+            var button = document.createElement("button");
+            button.innerHTML = "Roll Dice";
 
-      button.addEventListener ("click", function() {
-        rollDice();
-      });
+            container.appendChild(button);
 
-      defaultGrid();
-      //Creates a default grid sized 16x16 
-      function defaultGrid() {
-          makeRows(10);
-          makeColumns(10);
-      }
+            button.addEventListener("click", function() {
+                rollDice();
+            });
 
-      //Takes (rows, columns) input and makes a grid
-      function makeRows(rowNum) {
-          //Creates rows
-          for (r = 0; r < rowNum; r++) {
-              let row = document.createElement("div");
-              container.appendChild(row).className = "gridRow";
-          }
-      }
+            defaultGrid();
+            //Creates a default grid sized 16x16 
+            function defaultGrid() {
+                makeRows(10);
+                makeColumns(10);
+            }
 
-      //Creates columns
-      function makeColumns(cellNum) {
-        var whitecounter=0;
-          for (i = 0; i < 10; i++) {
-              for (j = 0; j < cellNum; j++) {
-                  let newCell = document.createElement("div");
-                  if(array[i][j]==0){
-                    rows[i].appendChild(newCell).className = "cell1";
-                    whitecounter++;
-                    console.log(whitecounter);
-                  }else{
-                    rows[i].appendChild(newCell).className = "cell2";
-                  }
-              }
+            //Takes (rows, columns) input and makes a grid
+            function makeRows(rowNum) {
+                //Creates rows
+                for (r = 0; r < rowNum; r++) {
+                    let row = document.createElement("div");
+                    container.appendChild(row).className = "gridRow";
+                }
+            }
 
-          }
-          document.getElementById("whitecount").innerHTML = "White Count: "+whitecounter;
-      }
-
-      function rollDice(){
-        for (i = 0; i < array.length; i++) {
-              for (j = 0; j < array[0].length; j++) {
-                  if(array[i][j]==0){
-                    var diceRoll = Math.ceil(Math.random()*6);
-                    if(diceRoll==1){
-                      array[i][j]=1;
+            //Creates columns
+            function makeColumns(cellNum) {
+                var whitecounter = 0;
+                for (i = 0; i < 10; i++) {
+                    for (j = 0; j < cellNum; j++) {
+                        let newCell = document.createElement("div");
+                        if(array[i][j] == 0){
+                            rows[i].appendChild(newCell).className = "cell1";
+                            whitecounter++;
+                            console.log(whitecounter);
+                        } else {
+                            rows[i].appendChild(newCell).className = "cell2";
+                        }
                     }
-                  }
+                }
+                document.getElementById("whitecount").innerHTML = "<strong>White Squares:</strong> " + whitecounter;
+            }
 
-          }
-        }
-        numRolls++;
-        document.getElementById("dicerollcounter").innerHTML = "Dice Rolls: "+numRolls;
-        updateCells();
-        defaultGrid();
-      }
-      function updateCells() {
-        document.querySelectorAll('.cell1').forEach(function(a){
-          a.remove()
-        })
-        document.querySelectorAll('.cell2').forEach(function(a){
-          a.remove()
-        })
-      }
-    </script>
-   </body>
+            function rollDice(){
+                for (i = 0; i < array.length; i++) {
+                    for (j = 0; j < array[0].length; j++) {
+                        if(array[i][j] == 0){
+                            var diceRoll = Math.ceil(Math.random() * diceSides);
+                            if(diceRoll == 1){
+                                array[i][j] = 1;
+                            }
+                        }
+                    }
+                }
+                numRolls++;
+                document.getElementById("dicerollcounter").innerHTML = "<strong>Dice Rolls:</strong> " + numRolls;
+                updateCells();
+                defaultGrid();
+            }
+
+            function updateCells() {
+                document.querySelectorAll('.cell1').forEach(function(a){
+                    a.remove()
+                })
+                document.querySelectorAll('.cell2').forEach(function(a){
+                    a.remove()
+                })
+            }
+        </script>
+    </div>
+</body>
 </html>

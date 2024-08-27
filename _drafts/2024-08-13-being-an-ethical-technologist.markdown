@@ -7,3 +7,4 @@ categories: general
 [INCOMPLETE]
 
 https://x.com/mattvm1/status/1819656104067887117?s=46
+Is technology a local minimum in human progress

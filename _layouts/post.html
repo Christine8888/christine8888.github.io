@@ -6,7 +6,7 @@ layout: default
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Christine Ye</title>
+    <title>{{ page.title }} - Christine Ye</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -42,14 +42,8 @@ layout: default
 </head>
 <body>
     <div class="container">
-        <h2>Christine's musings</h2>
-        <ul>
-        {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </li>
-        {% endfor %}
-        </ul>
+        <h2>{{ page.title }}</h2>
+        {{ content }}
     </div>
 </body>
 </html>

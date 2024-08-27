@@ -14,3 +14,5 @@ Also, a couple of open questions:
 - Does the U.S. have to be the first to build AGI, even if it takes enormous acceleration and many an ethical compromise?
 
 My first attempt at answering these questions was through *plausible replacement*: how many players, and with what odds, could actually take your place in whatever action?
+
+collective action, game theory, commitment, problems, social media, and technological revolution. “ collective lockstep away from nash equilibrium”

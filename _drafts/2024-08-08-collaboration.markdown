@@ -12,3 +12,5 @@ The following observations motivated this post:
 - In my (limited) experience, very few teams have been more productive than focused effort by myself.
 
 https://x.com/j_l_colvin/status/1820125830237782025?s=46
+
+How much science is “soft” systems? Thurston — much mathematics exists outside papers. quote from Structure (Kuhn)

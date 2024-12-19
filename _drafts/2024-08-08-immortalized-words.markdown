@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Immortalized words: reflections on my digital footprint"
+title:  "Reflections on my digital footprint"
 date:   2024-08-08 19:05
 categories: general
 ---

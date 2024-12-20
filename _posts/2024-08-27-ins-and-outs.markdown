@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ins and outs (08-2024)"
+title:  "Ins and outs"
 date:   2024-08-27 12:54
 categories: general
 ---

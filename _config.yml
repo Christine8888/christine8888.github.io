@@ -28,7 +28,7 @@ twitter_username: christinexye
 github_username: christine8888
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 

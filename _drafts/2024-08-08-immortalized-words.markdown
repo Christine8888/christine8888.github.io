@@ -5,7 +5,7 @@ date:   2024-08-08 19:05
 categories: general
 ---
 
-Everyone knows the age-old adage -- *anything you post online will be on the Internet forever*. Of course, that's not entirely true (solar flares, catastrophic collapses, the need for analog archives, etc.), but it's true enough. So what happens if you're publicly vocal online? If one really believes in *strong ideas held lightly*, then one's digital footprint is a veritable fossil record of thoughts and theories that may have been evolutionarily out-competed.
+*Anything you post online will be on the Internet forever*. Of course, that's not entirely true (solar flares, catastrophic collapses, the need for analog archives, etc.), but it's true enough. So what happens if you're publicly vocal online? If one really believes in *strong ideas held lightly*, then one's digital footprint is a veritable fossil record of thoughts and theories that may have been evolutionarily out-competed.
 
 After STS, I did a handful of media interviews in March/April 2022 that have permanent online presences. There are also photos and articles about me from before then, also about my research. I wouldn't say I'm a public figure by any means, but enough words by and about me are on the Internet that a base LLM can describe me or even auto-complete my personal website (figured this one out yesterday) to some degree of accuracy.
 

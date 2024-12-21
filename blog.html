@@ -6,61 +6,20 @@ layout: default
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Christine Ye</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="blog-list-body">
     <div class="back-button">
         <a href="/"><< back</a>
     </div>
-    <style>
-        body {
-            width: 100%;
-            font-family: Arial, sans-serif;
-            background-color: #E6E6FA;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            line-height: 1.5;
-            font-size: 14px;
-        }
-        .container {
-            width: 100%;
-            background-color: white;
-            padding: 2rem;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            margin-top: 2rem;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .links {
-            margin-top: 1rem;
-        }
-        .links a {
-            margin-right: 0.5rem;
-            color: #5345c2;
-            text-decoration: none;
-        }
-        .links a:hover {
-            text-decoration: underline;
-        }
-        .back-button {
-            margin-top: 1rem;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <ul>
+    <div class="container blog-list-container">
         {% for post in site.posts %}
-            <li>
                 <a href="{{ post.url | relative_url }}">
                     <span>{{ post.date | date: "%m/%y" }}</span>
                     {{ post.title }}
-                </a> 
-            </li>
+                </a>
+                <br> 
         {% endfor %}
-        </ul>
     </div>
 </body>
-
 </html>

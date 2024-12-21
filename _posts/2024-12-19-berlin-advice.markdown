@@ -1,39 +1,51 @@
 ---
 layout: post
 title:  "Advice for future Berlin goers"
-date:   2024-12-19 00:01
+date:   2024-12-20 00:01
 categories: general
 ---
 
 Congratulations on your great decision! Berlin is maybe my favorite city in the world, so I'm very jealous.
 
-**OVERALL TIPS:**
-- If you're at all into performing arts, *get the ClassicCard*! You pay your age (in my case 20€) and get unlimited access to 10-15€ arts tickets, and you can bring an U30 guest. I went to 11 different shows (ballets, theater, orchestra, opera) during the quarter mostly with ClassicCard tickets. 
+**PROGRAM TIPS:**
 - Take a light courseload. I know everyone gives this advice -- I got this advice and still considered doing 17 units -- but 12 units was absolutely the right choice. It was really nice to not really be worried about homework or finals. On weekdays sometimes we'd be on the move (class, shows, dates, exploring the city, long group dinners) from 9AM to midnight with very little downtime, to the point that U-Bahn was the best time to do ~20 minutes of German homework.
 - Try to get to know someone from your cohort before arriving. Abroad is an amazing time to meet people and I made amazing new friends in Berlin, but coming into the program already knowing people really helped with the adjustment.
 - Try to get placed in a homestay in Schöneberg or Kreuzberg, although honestly the biggest determining factor in most of my commutes was *distance, walking, to a train station*.
+- Plan only the most high-effort travel (anything that needs a visa, or we planned Ibiza/Mallorca since it was a big trip) ahead of time; I found that I wanted to stay in Berlin as much as I could and only ended up traveling 5 out of the 11 weekends.
+- It takes a while to settle into a routine -- duh, you've just moved across the world! I didn't really feel like I had my rhythm until ~3-4 weeks in, and even then a) it was always in flux/a mess b) it changed with the weather, the daylight schedule, our priorities, etc.
 
 **EXPLORING BERLIN:**
+- Berlin has great African/Middle Eastern food (try Rüyam Gemüse Kebab or Omdur)! It was especially cool because I'd never had African food before. The Asian food is mostly just OK (Wen Cheng is good for noodles). Our cohort really liked going to Markthalle Neun, a street food market that runs every Thursday, for wine and global bites.
+- If you're at all into performing arts, *get the ClassicCard*! You pay your age (in my case 20€) and get unlimited access to 10-15€ arts tickets, and you can bring an U30 guest. I went to 11 different shows (ballets, theater, orchestra, opera) during the quarter mostly with ClassicCard tickets; by far the best was the Staatsballett.
+- Berlin really subsidizes arts/cultural programming, so take advantage of it! My favorite museums were C/O Berlin (modern photography), Dark Matter (light/sound exhibition), and the Alte Nationalgalerie (classic paintings). The JahresKarte (25€) gives you unlimited access to all the publicly-funded museums for a year.
+- IMO Berlin is unique from most other European cities in that its history is still raw and visible everywhere, from all the post-WWII restored sites (such as my home train station, Nollendorfplatz) to the Wall scars and techno clubs in the old Death Strip. I really enjoyed seeing the more unconventional historical sites, like Teufelsberg (hike to an abandoned NSA radio station from the Cold War), the East Side Gallery (incredible street art on Wall remnants), and the Topography of Terror (museum in the old Nazi command center).
+- The thrifting in Berlin is amazing, especially around Kreuzberg; for jackets, bags, etc. you can also find great pieces at the Flohmarkts. Also, the German Urban Outfitters is shockingly good, and has a nice reclaimed secondhand rack as well.
+- Other things I did and really enjoyed: driving on the Autobahn (no speed limits!), going to German saunas (soooo relaxing), exploring Berlin parks and the Grunewald (when the weather was nice)
 
 **CLUBBING:**
+- I LOVED techno clubbing even though I came in not listening to any techno! I don't think I can say anything useful that will substitute for the actual experience, but here's some adjectives anyways: liberating, primal, liminal, all-encompassing, flow state, judgment-free, beautiful, synesthesic, addicting
+- Berlin has great bars too, but it's cheaper and more fun to sit at a Späti with your friends! And we never really pre-gamed clubbing. Our routine was something like, dinner --> get ready --> try to go out around ~11PM to beat lines, or on Sundays, wake up --> eat a train station croissant --> club.
 - Wear earplugs when you go clubbing. Or if you're willing to use your AirPods in the club, I found that was much better for the noise blockage vs. sound quality tradeoff.
 - Every club has coat check, thankfully, and lots of places to sit. Sisyphos and Berghain have food inside, and every other club has bars that serve Red Bulls/schorles/etc., so you can always take a break from the dance floor.
+- Because there's coat check: wear less than you think you should, and optimize for comfort! Seriously, I went from wearing long cargo pants, hair down, heeled boots, and a shoulder bag to sneakers, space buns, a fanny pack, and a bikini top/tennis skirt. I have never felt more relieved than when I realized I didn't have to try to dance while hanging onto a little purse lol.
 
-- Watergate: the first club we went to. Touristy vibe and sort of boring music, so we never went back. It's very historic (been around for 22 years) but unfortunately it closed at the end of 2024.
-- Tresor: the tourist techno club? Pretty much anyone will get in, and the music is good. Super fun venue, with smoke and flashing lights everywhere.
-- Sisyphos: lives up to the hype! Definitely dress colorful, the whole place is carnival themed and there are fun little Easter eggs to explore everywhere: outdoor stages, duck lasers, colored disco balls, random cabinet-sized rooms, even a Chinatown(?)-inspired hallway. The main bouncer always has a fun outfit going on -- last time it was a pink suit with flamingo motifs
+- *Watergate*: the first club we went to. Touristy vibe and sort of boring music, so we never went back. It's very historic (been around for 22 years) but unfortunately it closed at the end of 2024.
+- *Tresor*: the tourist techno club? Pretty much anyone will get in, and the music is good. Super fun venue, with smoke and flashing lights everywhere.
+- *Sisyphos*: lives up to the hype! Definitely dress colorful, the whole place is carnival themed and there are fun little Easter eggs to explore everywhere: outdoor stages, duck lasers, colored disco balls, random cabinet-sized rooms, even a Chinatown(?)-inspired hallway. The main bouncer always has a fun outfit going on -- last time it was a pink suit with flamingo motifs
     - 3 rooms playing music non-stop Friday to Monday: 1 techno (Hammahalle), 2 that are more disco/house-y
     - I imagine it's even more fun in the summer, since the club has a massive and beautiful garden section. Unfortunately it closes from December to February, when even with the heat lamps it's too cold to sit outside.
     - We went twice and never had any issues with lines/getting in, but we always went early (~11PM) + it is 21+ for entry. I recommend going at an off-peak time since you can always sit and eat/smoke inside, and once you get the stamp you can re-enter the whole weekend for 5€
     - Kind of a trek to get to, but it's next door to Dark Matter which has an amazing permanent experimental light installation + fun seasonal DJ sets, so try to combine your visits if possible
-- OXI: we went for Halloween and had a great time. Good music, fun smoking/garden area (although it gets really cold), nice elevated surfaces to dance on.
-- KitKat: Berlin's sex club! Go with an open mind, go with the flow, and I think you'll be surprised at how fun and liberating of an environment it is, regardless of whether you hook up with anyone. The music is great!
+- *OXI*: we went for Halloween and had a great time. Good music, fun smoking/garden area (although it gets really cold), nice elevated surfaces to dance on.
+- *KitKat*: Berlin's sex club! Go with an open mind, go with the flow, and I think you'll be surprised at how fun and liberating of an environment it is, regardless of whether you hook up with anyone. The music is great!
     - Usually ~5 parties per week (MWThFS), there are specific themed events on Fridays like Piepshow and FourPlay that attract really fun crowds
     - We never had a problem getting in, but definitely go early-ish (~11PM) and adhere to dress code. I wore a bodysuit w/ cutouts and tights/fishnets every time, sometimes a skirt for inside. Our guy friends bought harnesses/mesh pieces, and usually had to show outfits at the door. People tend to go all out for KitKat, and I think leaning into the dress code is actually a lot of fun.
     - Go with people you feel comfortable with. That being said, on our final Friday ~15 people from our cohort ended up in KitKat together and it was hilarious
-- OST: fun for very fast (>140bpm) techno. When we went the main room was only playing hardstyle! Also, you can stand/dance on the speaker boxes lol
+- *OST*: fun for very fast (>140bpm) techno. When we went the main room was only playing hardstyle! Also, you can stand/dance on the speaker boxes lol
     - Check RA Guide before, sometimes you have to pre-buy tickets, but the ticketed line usually moves pretty fast and they generally don't bounce people.
-- RSO: newer and far but super fun. Good mix of locals and tourists, really big main room with a great soundsystem
+- *RSO*: newer and far but super fun. Good mix of locals and tourists, really big main room with a great soundsystem
     - Generally great lineups and themed events, check RA before going and go early since their events are popular. We once waited ~2.5 hours in the rain. Another time we didn't check RA properly, went early, and ended up sitting on the floor for an hour enjoying an ambient sound/light bath, but it was honestly still pretty great lol
-- Berghain: our (and the world's?) favorite techno club. It is amazing: insane soundsystem, massive dance floor, incredible music in both the main (techno) room and Panorama Bar (disco/house), and the kindest and most iconic people to dance with. [I am planning on writing more about Berghain -- WIP]
-    - 
+- *Berghain*: our (and the world's?) favorite techno club. It is amazing: insane soundsystem, massive dance floor, incredible music in both the main (techno) room and Panorama Bar (disco/house), and the kindest and most iconic people to dance with. [I am planning on writing more about Berghain -- WIP]
+    - Obviously Berghain's door policy is famously strict. I tried 11 times, usually multiple times in the weekend between bouncer shift changes, and got in 4 times; once you have the wristband you can re-enter anytime before the last DJ set begins. I think it definitely helps if you (or someone you're with) looks older, queer, alternative, or German. Also: be patient, make eye contact but don't stare, say hello and smile if you want, be as confident as you can, really really try not to overthink it.
+    - I got in under various conditions: alone, in a group, wearing my space buns, wearing colors, wearing all black, on Sunday afternoon, on Saturday night. Other times, I got rejected under otherwise the exact same conditions; sometimes events are really popular, or sometimes the bouncers are just in a stricter mood. A 2-hour wait in the rain is definitely a Berlin rite of passage, but there are plenty of ways (Reddit, Telegram, etc.) to gauge the line length in advance and queue strategically. That being said, we have a theory that it's hardest to get in when there's absolutely no line, probably because they're already bouncing people quickly.
+    - The best music, atmosphere, and dancing happens between Sunday 10PM to Monday 8AM (closing time). I never managed to stay until closing, but I definitely sacrificed a lot of pre-class sleep (including leaving at 4AM the morning of a final exam) to make the most of those hours.

@@ -6,48 +6,15 @@ layout: default
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - Christine Ye</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #E6E6FA;
-            margin: 0;
-            padding: 0;
-            line-height: 1.5;
-            font-size: 14px;
-            min-height: 100vh;
-        }
-        .container {
-            width: 90%;
-            max-width: 800px;
-            background-color: white;
-            padding: 2rem;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            margin: 2rem auto;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .links {
-            margin: 1rem 0 0 5%;
-        }
-        .links a {
-            margin-right: 0.5rem;
-            color: #5345c2;
-            text-decoration: none;
-        }
-        .links a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
-    <div class="links">
+    <div class="back-button">
         <a href="/blog.html"><< back</a>
     </div>
-    <div class="container">
+    <div class="container blog-post-container">
         <h2>{{ page.title }}</h2>
-        <p style="font-size: smaller; color: #888;">{{ page.date | date: "%B %d, %Y" }}</p>
+        <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
         {{ content }}
     </div>
 </body>

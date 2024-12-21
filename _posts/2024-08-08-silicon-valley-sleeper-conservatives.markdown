@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "J.D. Vance and the Silicon Valley Sleeper Conservatives"
+title:  "my reaction to JD Vance"
 date:   2024-08-08 20:25
 categories: general
 ---

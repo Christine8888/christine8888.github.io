@@ -16,5 +16,5 @@ Historically, religion and science/technology have been considered anti-correlat
 
 [^0]: Right now, I can't think of a 2124 prediction that I would actually consider "far-fetched".
 [^1]: I am not suggesting people take Roko's basilisk seriously!
-[^2]: Among things that could become neoreligious icons in an AGI world: endangered species, radiation-free zones, any natural geolotical formations, Thoreau-style forests, etc. I think what ends up being valued as "natural" and "most human" will be pretty arbitary; in fact, even Thoreau's untouched wildernesses had already been shaped for centuries by [America's indigenous peoples](https://en.wikipedia.org/wiki/1491:_New_Revelations_of_the_Americas_Before_Columbus).
+[^2]: Among things that could become neoreligious icons in an AGI world: endangered species, radiation-free zones, any natural geological formations, Thoreau-style forests, etc. I think what ends up being valued as "natural" and "most human" will be pretty arbitary; in fact, even Thoreau's untouched wildernesses had already been shaped for centuries by [America's indigenous peoples](https://en.wikipedia.org/wiki/1491:_New_Revelations_of_the_Americas_Before_Columbus).
 [^3]: I'm not claiming that any of these belief systems are bad, just that I think they will start to feel more like religions.

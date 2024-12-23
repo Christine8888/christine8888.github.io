@@ -115,11 +115,11 @@
             function drawDiagram() {
                 ctx.clearRect(0, 0, canvas.width, canvas.height);
                 
-                // Draw grid
+                // grid
                 ctx.strokeStyle = '#e0e0e0';
                 ctx.lineWidth = 0.5;
                 
-                // Vertical grid lines
+                // grid lines
                 for (let i = 0; i <= 7; i++) {
                     const x = 50 + i * 100;
                     ctx.beginPath();
@@ -137,7 +137,7 @@
                     ctx.stroke();
                 }
                 
-                // Draw axes
+                // draw axes
                 ctx.strokeStyle = 'black';
                 ctx.lineWidth = 1;
                 ctx.beginPath();
@@ -146,7 +146,7 @@
                 ctx.lineTo(750, 550);
                 ctx.stroke();
 
-                // X-axis labels
+                // x-axis labels
                 const spectralTypes = ['O', 'B', 'A', 'F', 'G', 'K', 'M'];
                 const colors = ['#00BBFF', '#A6E1F5', '#F0F0FF', '#EFF5BA', '#FFFF00', '#F7A82A', '#FF0000'];
                 
@@ -169,7 +169,7 @@
                     ctx.fillText(i.toFixed(1), x - 10, 570);
                 }
 
-                // Y-axis labels
+                // y-axis labels
                 ctx.fillStyle = 'black';
                 ctx.font = '14px Arial, sans-serif';
                 for (let i = -15; i <= 14; i += 5) {
@@ -177,7 +177,7 @@
                     ctx.fillText(i.toString(), 25, y);
                 }
 
-                // X-axis label
+                // x-axis label
                 ctx.font = '18px Arial, sans-serif';
                 ctx.fillStyle = 'black';
                 ctx.fillText('B-V Color Index', 350, 595);
@@ -185,7 +185,7 @@
                 ctx.fillText('redder', 600, 595);
                 ctx.fillText('bluer', 150, 595);
 
-                // Y-axis label
+                // y-axis label
                 ctx.save();
                 ctx.translate(15, 300);
                 ctx.rotate(-Math.PI / 2);
@@ -195,7 +195,7 @@
                 ctx.fillText('brighter', 200, 0);
                 ctx.restore();
 
-                // Plot stars
+                // plot stars
                 stars.forEach(star => {
                     ctx.beginPath();
                     ctx.arc(star.x, star.y, 10, 0, 2 * Math.PI);
@@ -230,7 +230,7 @@
 
             drawDiagram();
 
-            // Prevent form submission
+            // prevent form submission
             document.getElementById('starForm').addEventListener('submit', function(event) {
                 event.preventDefault();
             });

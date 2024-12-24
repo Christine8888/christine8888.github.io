@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "writing list"
-date:   2024-12-21 20:58
+date:   2024-12-23 21:15
 categories: general
 ---
 

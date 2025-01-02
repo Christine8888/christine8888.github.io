@@ -14,7 +14,7 @@ layout: default
     </div>
     <div class="container blog-list-container">
         {% for post in site.posts %}
-                <a href="{{ post.url | relative_url }}">
+                <a href="{{ post.url | relative_url }}" style="color: #5345c2;"> 
                     <span>{{ post.date | date: "%m/%y" }}</span>
                     {{ post.title }}
                 </a>

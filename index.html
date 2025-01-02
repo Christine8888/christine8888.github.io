@@ -1,38 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Christine Ye</title>
-    <link rel="stylesheet" href="/css/styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Christine Ye</title>
+  <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body class="home-body">
     <div class="container home-container">
-            <header>
-                <h1>Christine Ye</h1>
-                <img src="assets/headshot.JPG" alt="Christine's Headshot" style="width: 30%; float: left; padding: 10px 30px 10px 10px">
-                <p>Hi, I'm Christine. I'm a current student at Stanford University, where I study Physics and Mathematics, dance with Cardinal Ballet Company, and design for FashionX. I'm originally from just outside Seattle, Washington.
-                I'm currently interested in: interpretability, the science of model capabilities, AI safety geopolitics, ensuring that progress is good, skiing, house music, dancing, and travel. </p>
-
-            <p> This past summer, I worked on mechanistic interpretability and semantic search with a team led by <a href = "https://jwuphysics.github.io/">John Wu</a>, hosted by the <a href = "https://www.clsp.jhu.edu/2024-jelinek-summer-workshop-on-speech-and-language-technology/">Jelinek summer workshop</a>  at the Johns Hopkins Center for Language and Speech Processing. 
-                Previously, I worked on Type Ia supernova cosmology and some optical/IR observations with <a href = "https://djones.sites.ucsc.edu/student-projects/">David Jones</a> at <a href = "https://www.gemini.edu/">Gemini Observatory</a> on Hawaii's Big Island.
-                From 2020 to 2022 I studied astrophysics and cosmology with gravitational-wave populations, advised by <a href = "https://mayafishbach.me/">Maya Fishbach</a> in the <a href = "https://www.ligo.org/">LIGO Collaboration</a>, and was fortunate enough to be awarded the <a href = "https://www.societyforscience.org/blog/five-questions-with-christine-ye-the-1st-place-winner-of-the-2022-regeneron-science-talent-search/">top prize</a> in the 2022 Regeneron Science Talent Search.</p>
-
-                <p> You can find me via email at cye [at] stanford [dot] edu.</p>
+        <header>
+            
+            <div class="nav-buttons">
+                <button class="nav-button active" data-tab="me">me</button>
+                <button class="nav-button" data-tab="work">work</button>
+                <button class="nav-button" data-tab="writing">writing</button>
+            </div>
         </header>
-        
-        <a href="blog.html">Visit my blog</a>
 
-        <section id="links" class="links">
-            <a href="https://www.linkedin.com/in/christine-y/">LinkedIn</a>
-            <a href="https://github.com/Christine8888">GitHub</a>
-            <a href="https://x.com/christinexye">Twitter/X</a>
+        <section id="me" class="content-section active">
+            <img src="assets/headshot.JPG" alt="Christine's Headshot" style="width: 25%; max-width: 50%; float: left; padding: 10px 30px 10px 10px">
+            <p>Hi, I'm Christine Ye. I'm a current student at Stanford University, where I study Physics and Mathematics, dance with Cardinal Ballet Company, and design for FashionX. I'm originally from just outside Seattle, Washington.
+              I'm currently interested in: interpretability, the science of model capabilities, AI safety geopolitics, ensuring that progress is good, skiing, house music, dancing, and travel. </p>
+
+              <p> This past summer, I worked on mechanistic interpretability and semantic search with a team led by <a href = "https://jwuphysics.github.io/">John Wu</a>, hosted by the <a href = "https://www.clsp.jhu.edu/2024-jelinek-summer-workshop-on-speech-and-language-technology/">Jelinek summer workshop</a> at Johns Hopkins. 
+              Previously, I worked on Type Ia supernova cosmology and some optical/IR observations with <a href = "https://djones.sites.ucsc.edu/student-projects/">David Jones</a> at <a href = "https://www.gemini.edu/">Gemini Observatory</a> on Hawaii's Big Island.
+              From 2020 to 2022 I studied astrophysics and cosmology with gravitational-wave populations, advised by <a href = "https://mayafishbach.me/">Maya Fishbach</a> in the <a href = "https://www.ligo.org/">LIGO Collaboration</a>, and was fortunate enough to be awarded the <a href = "https://www.societyforscience.org/blog/five-questions-with-christine-ye-the-1st-place-winner-of-the-2022-regeneron-science-talent-search/">top prize</a> in the 2022 Regeneron Science Talent Search.</p>
+
+              <p> You can find me via email at cye [at] stanford [dot] edu.</p>
+
+              <section id="links" class="links">
+                <a href="https://www.linkedin.com/in/christine-y/">LinkedIn</a>
+                <a href="https://github.com/Christine8888">GitHub</a>
+                <a href="https://x.com/christinexye">Twitter/X</a>
+            </section>
         </section>
-        <br>
-        <section id = "fa_papers" class="links">
+
+        <section id="work" class="content-section">
+          <section id = "fa_papers" class="links">
             <h3 style="margin-bottom: 5px;">First-author papers</h3>
             <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px;">
-                <li>Disentangling Dense Embeddings with Sparse Autoencoders <a href="https://arxiv.org/abs/2408.00657">[arXiv]</a><a href="https://huggingface.co/charlieoneill/embedding-saes">[HuggingFace]</a><a href="https://huggingface.co/spaces/charlieoneill/saerch.ai">[demo]</a>
+                <li>Disentangling Dense Embeddings with Sparse Autoencoders <a href="https://arxiv.org/abs/2408.00657">[arXiv]</a><a href="https://github.com/Christine8888/saerch">[GitHub]</a><a href="https://huggingface.co/spaces/charlieoneill/saerch.ai">[demo]</a>
                     <p style="color: gray; font-size: 0.9em; margin-top: 0px; margin-left: 20px;"> Sparse autoencoders for embeddings and steerable search. Work done at CLSP, published as NeurIPS FM4S Oral. </p>
                 </li>
                 <li>Searching for Bumps in the Cosmological Road: Do Type Ia Supernovae with Early Excesses Have Biased Hubble Residuals? <a href="https://arxiv.org/abs/2401.02926">[arXiv]</a><a href="https://github.com/Christine8888/earlySN">[GitHub]</a>
@@ -66,11 +73,44 @@
         </section>
 
         <section id="projects" class="links">
-            <h3 style="margin-bottom: 5px;">Miscellaneous links</h3>
-            <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px;">
-                <li> Pretraining language models for mathematical reasoning <a href="https://web.stanford.edu/class/cs224n/final-reports/256838758.pdf">CS224N Paper</a></li>
-                <li> <a href="https://www.instagram.com/p/C0R9rXOvA9d/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Big Game 2023</a>x Stanford FashionX</li>
-                <li> Labs for science classrooms: <a href="diceroll.html">Radioactive Decay Simulation</a> <a href="astronomy_bv.html">Hertzprung-Russell Diagram</a> </li>
-            </section>
+          <h3 style="margin-bottom: 5px;">Miscellaneous links</h3>
+          <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px;">
+              <li> Pretraining language models for mathematical reasoning <a href="https://web.stanford.edu/class/cs224n/final-reports/256838758.pdf">CS224N Paper</a></li>
+              <li> <a href="https://www.instagram.com/p/C0R9rXOvA9d/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Big Game 2023</a>x Stanford FashionX</li>
+              <li> Labs for science classrooms: <a href="diceroll.html">Radioactive Decay Simulation</a> <a href="astronomy_bv.html">Hertzprung-Russell Diagram</a> </li>
+          </section>
+        </section>
+
+        <section id="writing" class="content-section">
+            <div style="text-align: center; padding: 48px 0;">
+                <a href="blog.html">Visit my blog</a>
+            </div>
+        </section>
+
+    </div>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+          const buttons = document.querySelectorAll('.nav-button');
+          const sections = document.querySelectorAll('.content-section');
+          
+          buttons.forEach(button => {
+              button.addEventListener('click', () => {
+                  const tabName = button.getAttribute('data-tab');
+                  
+                  if (tabName === 'writing') {
+                      window.location.href = 'blog.html';
+                      return;
+                  }
+                  
+                  buttons.forEach(b => b.classList.remove('active'));
+                  sections.forEach(s => s.classList.remove('active'));
+
+                  button.classList.add('active');
+                  document.getElementById(tabName).classList.add('active');
+              });
+          });
+      });
+  </script>
 </body>
 </html>

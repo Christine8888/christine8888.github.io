@@ -1,11 +1,19 @@
 ---
 layout: post
-title:  "december bullet journal"
-date:   2024-12-21 20:58
+title:  "bullet journal (shortform)"
+date:   2024-1-08 20:58
 categories: general
 ---
 
 *Not a bullet journal in the aesthetic, Pinterest way, just a journal in bullet points*
+- (1.6.25) isn't it amazing that every social network has its own emergent, niche social norms?
+
+- (1.5.25) pictographic languages are much harder for new learners to bootstrap (think phonetics in Chinese vs. English); the compositional space of symbols with literal meanings is only so large. maybe pictographic languages must evolve ~slowly at first, s.t. symbols are sedimented before the language is extended to higher levels of abstraction
+
+- (1.3.25) two career thoughts. (1) it's hard to *force* a career that makes use of your comparative advantage; not every "intersection" is fruitful. (2) choose work you would do at every stage of the prestige/compensation/"coolness" ladder, not work where only the best outcomes feel desirable
+
+- (1.2.25) the best way to balance rationality with empathy/"normalcy" is to approach everything with humility. be deeply curious about but not above anything; irrationality is a neutral behavior
+
 - (1.1.25) happy new year! my main intentions for the year are (a) authenticity (b) epistemics (c) creation
 
 - (12.31.24) is there any real truth to [taste](https://www.astralcodexten.com/p/friendly-and-hostile-analogies-for?hide_intro_popup=true)? how would we actually test "primitives of taste"? this is related to convergent vs. divergent experiences of experts (see lower). or, is it just authenticity and alignment with the zeitgeist (i.e. the brat album)?

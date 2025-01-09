@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Notes from Berlin"
+date:   2025-01-08 11:14
+categories: general
+---

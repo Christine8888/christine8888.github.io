@@ -25,4 +25,4 @@ categories: general
 
 
 
-[^1]: but I also like viewing myself, and others, as instruments through which the universe's greater aesthetic forces can flow. Cheesy, I know
+[^1]: but I also like viewing myself, and others, as unconscious instruments through which the universe's greater aesthetic forces can flow. Cheesy, I know

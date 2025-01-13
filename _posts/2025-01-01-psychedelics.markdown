@@ -2,7 +2,7 @@
 layout: post
 title:  "Warnings about psychedelics"
 date:   2025-1-1 18:00
-categories: general
+categories: personal
 ---
 
 In general I think the [long tail](https://knowingless.com/2016/08/21/421/) of [human experiences](https://www.erowid.org/) is worth exploring. But for the forseeable future, I'm staying away from psychedelics.

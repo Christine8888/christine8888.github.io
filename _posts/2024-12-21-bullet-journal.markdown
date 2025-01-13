@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "bullet journal (shortform)"
-date:   2024-1-08 20:58
+date:   2025-1-08 20:58
 categories: general
 ---
 
 *Not a bullet journal in the aesthetic, Pinterest way, just a journal in bullet points*
+- 
+
 - (1.6.25) isn't it amazing that every social network has its own emergent, niche social norms?
 
 - (1.5.25) pictographic languages are much harder for new learners to bootstrap (think phonetics in Chinese vs. English); the compositional space of symbols with literal meanings is only so large. maybe pictographic languages must evolve ~slowly at first, s.t. symbols are sedimented before the language is extended to higher levels of abstraction
@@ -18,7 +20,7 @@ categories: general
 
 - (12.31.24) is there any real truth to [taste](https://www.astralcodexten.com/p/friendly-and-hostile-analogies-for?hide_intro_popup=true)? how would we actually test "primitives of taste"? this is related to convergent vs. divergent experiences of experts (see lower). or, is it just authenticity and alignment with the zeitgeist (i.e. the brat album)?
 
-- (12.31.24) someone should write out 
+- (12.31.24) someone should write out the anthropology of progress and the way technological growth has been felt culturally
 
 - (12.31.24) people act the way they act because of how the world feels to them; on one hand we may never understand subjective perception and on the other hand that is all there is
 

@@ -14,3 +14,4 @@ categories: general
     - [ ] including concrete scenarios for how mass automation happens
 - [ ] psychedelics
 - [ ] actually we are all religious https://www.avitalbalwit.com/post/action-at-once-rational-and-ardent
+- [ ] trying to rebuild my epistemics

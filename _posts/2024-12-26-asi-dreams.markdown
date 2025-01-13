@@ -7,7 +7,7 @@ categories: general
 *timeline guesses:*
 - AGI: not officially announced until 2027/2028, but palpably here by end of 2025. o5 is undoubtably superhuman at programming and math, RL is working on other STEM domains and maybe even philosophy, multimodal + perception is incorporated, long/infinite context is solved by smarter models, and models are good enough reasoners to learn much more sample efficiently in every domain, including writing or art. 
 - Full automation of human labor:[^1] 2032? On one hand the real world is sticky, embodiment/robotics is still a challenge, and it will take a while to build the product stack that enables agents to do real-world work. On the other hand, math/programming being the first automatable work points to faster takeoff. 
-- Superintelligence world: 2045? After human labor is ~fully automated takeoff will happen much faster; key markers are colonization of the solar system, the end of illness/death, energy and material abundance. 
+- Superintelligence world: 2050? After human labor is ~fully automated takeoff will happen much faster; key markers are colonization of the solar system, the end of illness/death, energy and material abundance. 
 
 *some predictions*
 - The transition could be very bad. Here are some things I am worried about, "standard" safety concerns (rogue agents, bad actors, bioweapons, etc.) aside:

@@ -6,7 +6,6 @@ categories: general
 ---
 
 *Not a bullet journal in the aesthetic, Pinterest way, just a journal in bullet points*
-- 
 
 - (1.6.25) isn't it amazing that every social network has its own emergent, niche social norms?
 

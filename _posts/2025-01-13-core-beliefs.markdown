@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Compiling my core beliefs"
+title:  "Core beliefs"
 date:   2025-1-1 18:00
 categories: general
 ---

@@ -14,9 +14,15 @@ categories: general
 
 *on my life*
 - intentional "accumulation of experiences" is core to living a rich life
-- free will is the most useful cognitively dissonant abstraction
+- free will is the most useful cognitively dissonant abstraction[^1]
 - to be "interesting", creative, grounded, etc. nurture your inner world
 - intentionally go against your intuitions sometimes, just to check if you're lying to yourself
 
 *miscellaneous*
 - I'm a coiner and mutator of n-grams, with lifespans from ~hours to ~months
+
+
+
+
+
+[^1]: but I also like viewing myself, and others, as instruments through which the universe's greater aesthetic forces can flow. Cheesy, I know

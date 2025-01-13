@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes from Berlin"
 date:   2025-01-08 11:14
-categories: general
+categories: personal
 ---
 
 From September to December 2024 I lived and studied in Berlin. I learned the basics of German (*ja, ich spreche Deutsch*), lived independently in the city, clocked ~35 hours in Berghain, spent noctural weekends powered by U-Bahn station croissants, and saw unfamiliar parts of both the world and myself.

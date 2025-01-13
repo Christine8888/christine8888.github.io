@@ -28,6 +28,7 @@ url: "https://christine8888.github.io" # the base hostname & protocol for your s
 
 # Build settings
 theme: minima
+permalink: /:title.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.

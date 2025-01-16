@@ -14,6 +14,7 @@
                 <button class="nav-button active" data-tab="me">me</button>
                 <button class="nav-button" data-tab="work">work</button>
                 <button class="nav-button" data-tab="writing">writing</button>
+                <button class="nav-button" data-tab="gallery">gallery</button>
             </div>
         </header>
 
@@ -52,38 +53,54 @@
                     <p style="color: gray; font-size: 0.9em; margin-top: 0px; margin-left: 20px;"> Simulating gravitational wave cosmology for the 2040s. In Phys. Rev. D</p>
                 </li>
             </ul>
-        </section>
+            </section>
 
-        <section id = "ca_papers" class = "links">
-            <h3 style="margin-bottom: 5px;">Co-authored papers</h3>
-            <ul style="list-style-type: disc; padding-left: 20px; margin-top: 0px;">
-                <li>
-                    pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy <a href="https://arxiv.org/html/2408.01556v1">[arXiv]</a> <a href="https://huggingface.co/spaces/kiyer/pathfinder">[pathfinder]</a>
-                    <p style="color: gray; font-size: 0.9em; margin-top: 0px; margin-left: 20px;"> Semantic search (+ RAG, HyDE, ReAct, other acronyms) for scientific literature. In ApJS</p>
-                </li>
-                <li>
-                    SN2023ixf in Messier 101: the twilight years of the progenitor as seen by Pan-STARRS <a href="https://arxiv.org/abs/2312.04426">[arXiv]</a>
-                    <p style="color: gray; font-size: 0.9em; margin-top: 0px; margin-left: 20px;"> Real observations from an incredible telescope. In ApJ </p>
-                </li>
-                <li>
-                    The role of natal kicks in forming asymmetric compact binary mergers <a href="https://arxiv.org/abs/2303.06081">[arXiv]</a>
-                    <p style="color: gray; font-size: 0.9em; margin-top: 0px; margin-left: 20px;"> Simulations to explain some unexpected LIGO observations. In ApJ</p>
-                </li>
-            </ul>
-        </section>
+            <section id = "ca_papers" class = "links">
+                <h3 style="margin-bottom: 5px;">Co-authored papers</h3>
+                <ul style="list-style-type: disc; padding-left: 20px; margin-top: 0px;">
+                    <li>
+                        pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy <a href="https://arxiv.org/html/2408.01556v1">[arXiv]</a> <a href="https://huggingface.co/spaces/kiyer/pathfinder">[pathfinder]</a>
+                        <p style="color: gray; font-size: 0.9em; margin-top: 0px; margin-left: 20px;"> Semantic search (+ RAG, HyDE, ReAct, other acronyms) for scientific literature. In ApJS</p>
+                    </li>
+                    <li>
+                        SN2023ixf in Messier 101: the twilight years of the progenitor as seen by Pan-STARRS <a href="https://arxiv.org/abs/2312.04426">[arXiv]</a>
+                        <p style="color: gray; font-size: 0.9em; margin-top: 0px; margin-left: 20px;"> Real observations from an incredible telescope. In ApJ </p>
+                    </li>
+                    <li>
+                        The role of natal kicks in forming asymmetric compact binary mergers <a href="https://arxiv.org/abs/2303.06081">[arXiv]</a>
+                        <p style="color: gray; font-size: 0.9em; margin-top: 0px; margin-left: 20px;"> Simulations to explain some unexpected LIGO observations. In ApJ</p>
+                    </li>
+                </ul>
+            </section>
 
-        <section id="projects" class="links">
-          <h3 style="margin-bottom: 5px;">Miscellaneous links</h3>
-          <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px;">
-              <li> Pretraining language models for mathematical reasoning <a href="https://web.stanford.edu/class/cs224n/final-reports/256838758.pdf">CS224N Paper</a></li>
-              <li> <a href="https://www.instagram.com/p/C0R9rXOvA9d/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Big Game 2023</a>x Stanford FashionX</li>
-              <li> Labs for science classrooms: <a href="diceroll.html">Radioactive Decay Simulation</a> <a href="astronomy_bv.html">Hertzprung-Russell Diagram</a> </li>
-          </section>
+            <section id="projects" class="links">
+                <h3 style="margin-bottom: 5px;">Miscellaneous links</h3>
+                <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px;">
+                    <li> Curriculum training LMs for mathematical reasoning <a href="https://web.stanford.edu/class/cs224n/final-reports/256838758.pdf">CS224N Paper</a></li>
+                    <li> <a href="https://www.instagram.com/p/C0R9rXOvA9d/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Big Game 2023</a>x Stanford FashionX</li>
+                    <li> Labs for science classrooms: <a href="diceroll.html">Radioactive Decay Simulation</a> <a href="astronomy_bv.html">Hertzprung-Russell Diagram</a> </li>
+            </section>
         </section>
 
         <section id="writing" class="content-section">
             <div style="text-align: center; padding: 48px 0;">
                 <a href="blog.html">Visit my blog</a>
+            </div>
+        </section>
+
+        <section id="gallery" class="content-section">
+            <div class="image-container" style="padding: 48px 0;">
+                <button id="newPictureButton" style=
+                "display: block; 
+                margin: 0 auto 20px; 
+                padding: 8px 16px;
+                border: none;
+                border-radius: 8px;
+                cursor: pointer;
+                background-color: #e5e7eb;
+                color: #374151;"
+                >new picture</button>
+                <img id="randomImage" src="" style="width: 35%; display: block; margin: 0 auto;">
             </div>
         </section>
 
@@ -110,6 +127,28 @@
                   document.getElementById(tabName).classList.add('active');
               });
           });
+
+            const randomImage = document.getElementById('randomImage');
+            const newPictureButton = document.getElementById('newPictureButton');
+            const galleryFolder = 'gallery/';
+            let images = [];
+            fetch('images.json') // asynchronous
+                .then(response => response.json())
+                .then(jsonData => {
+                    images = jsonData;
+                    getRandomImage(); // load once
+                })
+                .catch(err => {
+                    console.error('Error fetching images.json:', err);
+                });
+
+            function getRandomImage() {
+                const randomIndex = Math.floor(Math.random() * images.length);
+                const randomImageSrc = galleryFolder + images[randomIndex].filename;
+                randomImage.src = randomImageSrc;
+            }
+            
+            newPictureButton.addEventListener('click', getRandomImage);
       });
   </script>
 </body>

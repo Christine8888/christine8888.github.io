@@ -6,6 +6,17 @@ categories: general
 ---
 
 *Not a bullet journal in the aesthetic, Pinterest way, just a journal in bullet points*
+- (1.15.25) agency is one of those human traits where the distribution is better visualized on a logarithmic scale. or at least, the effects accumulate exponentially --> massive apparent dynamic range
+
+- (1.14.25) the main reason to be hotter is to have more societal tolerance for your weirdness
+
+- (1.9.25) literally everything can be boiled down to just *being attuned to what you want*. curiosity is extremely multi-scale; on the nano end it is just noticing what you like/dislike, and interrogating the emotions provoked by stimuli. intuitive eating! people are jealous/status-seeking because they have no internal sense of self.
+
+- (1.9.25) different scientific/engineering disciplines have vastly different intellectual cultures; one main dimension is "first principles/autodidacts rule" vs. "defer to authority"
+
+- (1.8.25) notes from FashionX: (1) intentionally create the improbable (2) cities and spaces balance transmission and transgression to various degrees; think SF vs. Paris
+
+- (1.7.25) being trapped on a bad/boring large group project is the worst way to (a) kill passion and (b) lose self-confidence
 
 - (1.6.25) isn't it amazing that every social network has its own emergent, niche social norms?
 

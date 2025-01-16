@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Specificity"
+date:   2025-1-16 5:25
+categories: general
+---
+
+Here is an incomplete list of things I think are direct products of *specificity*, i.e. intentionally grasping and articulating the finest details. 
+
+(1) Love. The most beautiful love I have experienced came alongside deep, attentive knowledge. Remembering my best friends' childhood stories, recognizing their little idiosyncracies, knowing their mental circuits enough to predict what they'll say; parts of myself that I've never vocalized, seen and understood by people close to me. Having city blocks and college campuses I know like the back of my hand, with memories attached to every square foot. We are lucky to know people, places, and ourselves so intimately.
+
+(2) "Taste" and self-expression. Developing a sense for your personal aesthetics is just a long exercise in noticing and exploring how you respond (profundity/beauty is most obvious, but repulsion also contains signal) to stimuli. The activity I remember most from Alexander Nemerov's art history course was to sit in front of a painting for 20 minutes and just pay attention; you'd be surprised at how hard it is at first. The more deeply you question your tastes, the better. What is it about that poster, that record, that song, that outfit, that perfume? Can you boil it down to a snippet, a drumbeat, a color scheme, a singular motif?  Purporting to love X is one thing, but a precise list of X that [calls to you](https://www.sarahblaustein.com/the-call-alexander-nemerov-talk.html) communicates an order of magnitude more information. Authentic self-expression comes from having a detailed map of your personal aesthetic landscape; once your tastes are legible, they are actionable.
+
+(3) Deep understanding. This is (imo) the most obvious one. History's brilliant scientists were known, above all, for asking [seemingly](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) [simple](https://en.wikipedia.org/wiki/Einstein%27s_thought_experiments) questions. Fundamentally this is about having crisp, detailed, and self-consistent mental models; here specificity is a forcing function, a breadcrumb trail towards the truth. I believe that everything else -- asking good questions, seeing the right patterns, developing strong opinions, etc. -- is downstream of this. 
+
+(4) Gratitude. Going for detail is a really good exercise in being grateful: it forces you not only to just *spend more time* practicing gratitude, but to commit more details to active memory. I also personally enjoy explicitly appreciating the granular bits of things I'm grateful for. In particular, I feel most appreciative of nature when I'm paying close attention to all my senses, and noticing where the beauty comes from: filtered light and [god rays](https://en.wikipedia.org/wiki/Crepuscular_rays), or intricate details shaped by the millennia, or the all-consumingness of grand landscapes.
+
+(5) Personal direction, or (2) on a broader scale. Here I think of specificity as *attunement* to internal signals; think [intuitive eating](https://www.intuitiveeating.org/), but it's just intuitive living, amplifying and following your innnate [sense of quality](https://willhath.substack.com/p/losing-my-mind-in-the-siskiyous). To be specific here is to disentangle one's subjective response to things, to break the superposition of emotions and experiences, to understand not just *how* but *why* the world makes you feel. What *is* it that makes you happy? Can you pick *what you want* out of a lineup, or draw it from memory? Do you know the fractal frontier of your own abilities, desires, and boundaries? I think once you can fully and honestly assess this, your personal direction should be obvious.
+
+Caveats: I am not altogether convinced that "more knowledge" is always better; I think this form of interrogation can be very productive, but also breaks some other forms of "mystique" and "fuzziness" that are not fully replaceable. This was more for myself than any reader. I especially hope (5) is true.

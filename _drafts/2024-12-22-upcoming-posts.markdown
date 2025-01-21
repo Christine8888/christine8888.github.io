@@ -16,3 +16,4 @@ categories: general
 - [ ] actually we are all religious https://www.avitalbalwit.com/post/action-at-once-rational-and-ardent
 - [ ] trying to rebuild my epistemics
 - [ ] short timelines and fear
+- [x] specificity

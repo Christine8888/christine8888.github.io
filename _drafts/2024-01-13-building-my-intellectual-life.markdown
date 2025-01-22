@@ -6,3 +6,5 @@ categories: general
 ---
 
 I believe Stanford is a world-expanding but soul-sucking place for intellectual interest; at least, that's how I experienced it.
+
+https://novellearning.blog/2021/05/09/epistemic-self-improvement/

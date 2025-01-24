@@ -11,6 +11,7 @@ categories: general
 - people are good, people can be made more good, but society should be structured against collective bad behavior
 - the world is created by the conviction of individuals; the world belongs to the ones who care
 - everyone should have more fun
+- we tend to underrate how much modern-day stability and prosperity is a product of American hegemony
 
 *on my life*
 - intentional "accumulation of experiences" is core to living a rich life

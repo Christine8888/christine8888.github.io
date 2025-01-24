@@ -9,11 +9,12 @@ categories: general
 - [x] modern polymaths
 - [ ] archive and meditation on berghain
 - [ ] reflections from berlin
-- [ ] you should probably read less advice
-- [ ] a conversation about AGI with/for someone not in AI
+- [x] you should probably read less advice
+- [ ] a conversation about AGI with/for someone not in AI, reasonable responses/life decisions, valid responses to short timelines
     - [ ] including concrete scenarios for how mass automation happens
 - [x] psychedelics
 - [ ] actually we are all religious https://www.avitalbalwit.com/post/action-at-once-rational-and-ardent
 - [ ] trying to rebuild my epistemics
-- [ ] short timelines and fear
 - [x] specificity
+
+- make RSS feed --> port to Substack

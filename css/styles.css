@@ -108,3 +108,9 @@ li, a {
 }
 
 h3 { font-size: 1.2rem}
+
+.custom-audio {
+    display: block;
+    margin-bottom: 20px; /* Space between audio players */
+  }
+  

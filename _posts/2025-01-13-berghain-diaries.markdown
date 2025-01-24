@@ -47,11 +47,11 @@ A Slovenian couple, Berghain semi-regulars, once told me that Berghain is about 
 
 *i literally have not felt more like myself ever up until berghain. that place stripped me down to my core*
 
+*the music is a force that commands you to dance and pulls you in from the sidelines. once you get “on board” you are at the mercy of the rhythm and the drop. the beat is reliable, unrelenting, the backdrop for a surreal trance and addictive movements. being exhausted, physically spent, in pain, but still feeling the urge to dance. dancing becomes compulsory*
+
 *community is so important, people at berghain show up and show out every week, tipping, dancing together, bringing water. the amount of love floating through the air. your love and empathy are set by the baseline around you*
 
 *the crowd matters so much. it’s like a transfer of energy something genuinely intangible but connects us all as one to the beat of the track. there is literally no words to describe that feeling. the way we move as one but in our own way. when everyone is dancing together in that dark sexy and wild way it literally makes me feel like I’m ascending into another fucking universe. omg the feeling is so fucking deep i never wanna forget it.*
-
-*the music is a force that commands you to dance and pulls you in from the sidelines. once you get “on board” you are at the mercy of the rhythm and the drop. the beat is reliable, unrelenting, the backdrop for a surreal trance and addictive movements. being exhausted, physically spent, in pain, but still feeling the urge to dance.*
 
 *i wish i had the physical vocabulary to express the music fully*
 
@@ -60,8 +60,6 @@ A Slovenian couple, Berghain semi-regulars, once told me that Berghain is about 
 *i love watching the floor pulsate under the lights, people throw around their shoulders and bounce their bodies, all facing each other and dancing together, muscles moving as far as the eye can see, light dancing off skin*
 
 *moments to remember*: *getting nervous without fail right before the door, even after a dozen times. walking in through the bag check, the abendkasse, the garderobe, getting a taste of the night to come from the echoes of music and the people milling about. sitting in eisbar sharing an apfel-schorle with my friends, hearing the music from below. white light flashing, casting the room in 20fps stop-motion. the cables twisting down from the ceiling. sitting in Saule between the red lights and concrete columns. dancing to the point of discomfort, dripping in sweat and bordering on physical pain. floating on the sparkly, colorful notes in pano. waking up the next day with ringing ears and aching legs. stretching my arms up, hearing the crowd whistle, as the DJ navigates the tension of the peak.*
-
-*the music is a force that commands you to dance and pulls you in from the sidelines. once you get “on board” you are at the mercy of the rhythm and the drop. the beat is reliable, unrelenting, the backdrop for a surreal trance and addictive movements. dancing becomes compulsory*
 
 *pano — fun, disco, vibrant, vibey, twirls and shimmy; berghain — wild, animalistic, violent, head banging, bass pulsing through the core*
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -16,11 +16,12 @@ li {
 </style>
 
 
-<body>
-    <div class="back-button">
-        <a href="/blog.html"><< back</a>
-    </div>
+<body class = "blog-list-body">
+    
     <div class="container blog-post-container"> 
+        <div class="back-button">
+            <a href="/blog.html"><< back</a>
+        </div>
         <h2>{{ page.title }}</h2>
         <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
         {{ content }}

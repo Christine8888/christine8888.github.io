@@ -29,6 +29,9 @@ url: "https://christine8888.github.io" # the base hostname & protocol for your s
 # Build settings
 theme: minima
 permalink: /:title.html
+include:
+  - _posts/_private
+  - _private
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -38,16 +41,16 @@ permalink: /:title.html
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # permalink: /:categories/:year/:month/:day/:title:output_ext

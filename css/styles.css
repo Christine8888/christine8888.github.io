@@ -35,6 +35,7 @@ h1, h2 {
 
 .back-button {
     margin-top: 1rem;
+    padding-bottom = 20px;
 }
 
 .home-body {
@@ -43,7 +44,7 @@ h1, h2 {
 }
 
 .home-container {
-    width: 60%;
+    width: 50%;
 }
 
 .blog-list-body {
@@ -52,11 +53,11 @@ h1, h2 {
 }
 
 .blog-list-container {
-    width: 100%;
+    width: 50%;
 }
 
 .blog-post-container {
-    width: 100%;
+    width: 50%;
     margin: 2rem auto;
 }
 

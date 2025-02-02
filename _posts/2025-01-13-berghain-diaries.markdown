@@ -63,5 +63,10 @@ A Slovenian couple, Berghain semi-regulars, once told me that Berghain is about 
 
 *pano — fun, disco, vibrant, vibey, twirls and shimmy; berghain — wild, animalistic, violent, head banging, bass pulsing through the core*
 
+&nbsp;
+
+&nbsp;
+
+
 [^closing]: on top of the usual complaints about the techno scene being overrun by tourists, two legendary Berlin clubs, Watergate and Renate, announced they were closing due to rising rents in Friedrichshain [RA article](https://ra.co/news/81126)
 [^natalie]: shout-out Natalie, who met her boyfriend of a year! inside Berghain while on a trip from Amsterdam

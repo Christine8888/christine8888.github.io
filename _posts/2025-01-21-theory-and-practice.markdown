@@ -21,8 +21,18 @@ People who truly understand a statement of advice usually share similar-ish repr
 
 It's hard to accept that not everything can be learned directly from a book. But in a way, it's also beautiful that the experience of life itself contains the most elusive truths.
 
+&nbsp;
+
+&nbsp;
+
 Here are some related ideas (thank you Neil, Kevin):
 - https://blog.rossry.net/chisness/ "the richness of 'find out what works' versus 'learn what theory says'"
+- https://en.wikipedia.org/wiki/Linguistic_relativity
+- https://near.blog/take-more-flights/
+
+&nbsp;
+
+&nbsp;
 
 [^tacit]: This is also semi-true for "tacit knowledge"/technical advice, i.e. certain things won't make sense until you have internalized the right models, and sometimes that internalization really does only come with hands-on experience. Still, I think the absorption of practical advice is mostly context-limited: it would ring true if you had the right context, perhaps bolstered by practical experience, to understand the claim
 [^meditation]: I'm not a meditation person but I think the concepts that people who meditate share ([the void](https://meditationmakesense.com/2013/01/14/what-is-the-void/), [equanimity](https://www.insightmeditationcenter.org/books-articles/equanimity/), etc.) are a great illustration of "words that sound surface-level simple but contain depth that is incomprehensible to me"

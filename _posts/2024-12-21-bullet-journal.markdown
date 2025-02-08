@@ -8,7 +8,7 @@ categories: general
 *Not a bullet journal in the aesthetic, Pinterest way, just a journal in bullet points*
 - (1.19.25) for a brief 12 hours we thought TikTok was gone, and I felt genuinely mournful. in some ways I was raised on the musical.ly/TikTok/early YouTube culture, and it all feels very deeply intertwined with my teenage/high school years. mass Internet culture has its evils but it's also a unique and deeply beautiful experience to share ideas, trends, experiences with millions of people.
 
-- (1.17.25) feeling the AGI, also feeling the techno-religion. 
+- (1.17.25) feeling the AGI, also feeling the techno-religion. somehow 
 
 - (1.16.25) are you more of a "ideas are cheap, execution is expensive" person or an "anti code monkey" person
 

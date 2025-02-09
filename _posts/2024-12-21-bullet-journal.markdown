@@ -1,11 +1,33 @@
 ---
 layout: post
 title:  "bullet journal (shortform)"
-date:   2025-1-08 20:58
+date:   2025-2-08 20:58
 categories: general
 ---
 
-*Not a bullet journal in the aesthetic, Pinterest way, just a journal in bullet points*
+*Not a bullet journal in the Pinterest way, just a journal in bullet points*
+- (2.8.25) when I was insanely sick for the last ~week I hit upon some weird pit of despair: why do we put all this on ourselves, have so much agency, embrace so much responsibility for our real lives, when sometimes it's all we can do to just survive/feel ok? now that I'm less sick I'm getting my motivation back in bits and pieces haha
+
+- (2.8.25) why is it so much easier to get music off tiktok clips? (a) repeated, semi-forced exposure (b) increased chance of hearing the catchiest parts of the song (or at least not the intro/first verse) (c) most importantly, *the vibe has been matched for you*. really good music evokes some sort of feeling or urge: to roll the windows down and speed on a freeway, to be in love, to dance in a certain way. a user that posts a video to a certain song has chosen the visuals to match whatever the song evokes; this is usually faster and lower effort for the viewer than becoming attuned to that feeling by themselves; videos are 15-second vibe capsules; this is probably really biased towards the kinds of tiktoks I see
+
+- (2.8.25) I'm not sure that we can have safe superintelligence without some amount of pure blind faith; all my models of the bridge to the far future involve some leap
+
+- (2.3.25) how much of "realism" can be attributed to the camera / how does contemporary technology + media shape our internal perceptions of the world
+
+- (2.2.25) when science + philosophy is solved by models, I'd like to know if it was necessary, if we were hitting some upper limit to human abstractions and collaboration
+
+- (1.28.25) few things feel worse than not being taken seriously
+
+- (1.28.25) it seems like every startup must have a little bit of fraud in the early rallying stages, until the phase transition happens at some critical momentum + scale
+
+- (1.27.25) it feels really good to have top-line direction in my life; I think it makes me a more motivated and more disciplined person across the board. usually I model my behavior as some interaction between my "true self" (i.e., Christine who actually makes all the decisions second-to-second) and my "higher self" (Christine who knows the kind of person she'd like to be and is actively trying to steer herself, work through her emotions, etc.)
+
+- (1.26.25) what ideas in the American psyche are just luxury beliefs/memes of long-term hegemonic stability?
+
+- (1.24.25) I would benefit from more *orchestration* experience -- organizing something in the real world -- I miss hosting high school house parties
+
+- (1.21.25) the world neds more experiential art, more gimmicky surprises
+
 - (1.19.25) for a brief 12 hours we thought TikTok was gone, and I felt genuinely mournful. in some ways I was raised on the musical.ly/TikTok/early YouTube culture, and it all feels very deeply intertwined with my teenage/high school years. mass Internet culture has its evils but it's also a unique and deeply beautiful experience to share ideas, trends, experiences with millions of people.
 
 - (1.17.25) feeling the AGI, also feeling the techno-religion. somehow 

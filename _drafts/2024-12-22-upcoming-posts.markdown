@@ -16,5 +16,6 @@ categories: general
 - [ ] actually we are all religious https://www.avitalbalwit.com/post/action-at-once-rational-and-ardent
 - [ ] trying to rebuild my epistemics
 - [x] specificity
+- [ ] interviews on progress
 
 - make RSS feed --> port to Substack

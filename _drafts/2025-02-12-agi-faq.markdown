@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "christine's AI FAQ"
+date:   2025-02-12 12:29
+categories: general
+---
+
+For some reason DeepSeek was the catalyst that got several of my friends thinking about AGI, or put them on "AI existential risk TikTok" (a [real](https://www.tiktok.com/@askcatgpt?lang=en) although questionable online community), or otherwise forced them to reckon with some of the scarier consequences of more capable chatbots. This is both my attempt to chronicle my honest answers to them, and also to compile some of the (to-be) frequently asked questions of the next few years. Most of these are drawn from real conversations.
+
+*are we all going to die?*
+
+*what will happen when we don't need to learn anymore?*
+
+*can AI solve the world's most pressing problems? aren't they mostly human problems, not technology problems?*
+
+*how can we just create intelligence out of nothing? what do you mean it can reason?*
+
+*is this even a good thing? should I be happy that this is happening?*
+
+*when will society be willing to change its fundamental organization or relationships?*
+
+*will we be stuck in hyper stratified pseudo-feudal capitalism forever?*
+
+*look how long the Internet took to reach the world, won't real-world progress be really slow?*
+
+
+&nbsp;
+
+*registering some predictions*
+- model quality aside: OAI will do well if consumer/product/data moats remain important, Anthropic will do well if safety/geopolitical competition motivates regulatory capture ([Dario](https://darioamodei.com/on-deepseek-and-export-controls) quite prominently pushes the idea of U.S.-aligned nations negotiating w/ some advantage), GDM will do well if vertical integration is useful or if science/strategic games are unexpetedly fruitful, DeepSeek will do well if China has some interest in dominating the open-source scene
+
+
+*compiling some writing I like*
+- 

@@ -6,6 +6,14 @@ categories: general
 ---
 
 *Not a bullet journal in the Pinterest way, just a journal in bullet points*
+- (2.18.25) I notice that most "intellectual" conversations I have lean much more towards the other party's area of expertise?
+
+- (2.16.25) Greek life is popular because it's a safety net: it confers some default amount of status, it offers a default social life, and it offers clear boundaries for what relationships one should or shouldn't put time/effort into
+
+- (2.12.25) one of the most jarring realizations I've had is that even purported experts, with stellar careers, are often just fundamentally wrong about something. it's weird to re-confront my relationship with authority, especially intellectual authority
+
+- (2.11.25) I would love to see completely gamified technical education -- progressive levels, instant feedback, for problems of varying time/effort scales -- already learning against model-designed curricula sort of gets there
+
 - (2.8.25) when I was insanely sick for the last ~week I hit upon some weird pit of despair: why do we put all this on ourselves, have so much agency, embrace so much responsibility for our real lives, when sometimes it's all we can do to just survive/feel ok? now that I'm less sick I'm getting my motivation back in bits and pieces haha
 
 - (2.8.25) why is it so much easier to get music off tiktok clips? (a) repeated, semi-forced exposure (b) increased chance of hearing the catchiest parts of the song (or at least not the intro/first verse) (c) most importantly, *the vibe has been matched for you*. really good music evokes some sort of feeling or urge: to roll the windows down and speed on a freeway, to be in love, to dance in a certain way. a user that posts a video to a certain song has chosen the visuals to match whatever the song evokes; this is usually faster and lower effort for the viewer than becoming attuned to that feeling by themselves; videos are 15-second vibe capsules; this is probably really biased towards the kinds of tiktoks I see

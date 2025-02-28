@@ -1,0 +1,3 @@
+# feel free to read anything, especially my blog/research!
+User-agent: *
+Disallow:

@@ -133,11 +133,11 @@
             const newPictureButton = document.getElementById('newPictureButton');
             const galleryFolder = 'gallery/';
             let images = [];
-            fetch('images.json') // asynchronous
+            fetch('images.json')
                 .then(response => response.json())
                 .then(jsonData => {
                     images = jsonData;
-                    getRandomImage(); // load once
+                    getRandomImage();
                 })
                 .catch(err => {
                     console.error('Error fetching images.json:', err);

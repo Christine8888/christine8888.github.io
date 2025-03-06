@@ -7,11 +7,10 @@ categories: general
 
 So, I made a dress! My amazing model Catherine debuted it on the runway in Stanford's Memorial Church last Saturday. This was my first time ever designing, and was one of 130 (!!) designs exhibited on [FashionX's Runway](https://news.stanford.edu/stories/2025/02/fashionx-brings-the-runway-to-a-sold-out-show-at-memorial-church) this year.
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="width: 100%; aspect-ratio: 1/1; display: flex; align-items: center; justify-content: right;">
-        <img src="assets/catherine.png" alt="runway" style=" max-height: 100%; object-fit: contain;">
-    </div>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+    <img src="assets/catherine.png" alt="runway" style="max-width: 60%; height: auto; object-fit: contain;">
 </div>
+
 *muslin two-piece with trailing sash, satin accent stripes, gold stud fastenings, wire face and body jewelry; show photos by Emily Gonzalez and Aaron Moses*
 
 &nbsp; 

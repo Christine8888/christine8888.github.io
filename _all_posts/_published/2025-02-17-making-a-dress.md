@@ -8,7 +8,7 @@ categories: general
 So, I made a dress! My amazing model Catherine debuted it on the runway in Stanford's Memorial Church last Saturday. This was my first time ever designing, and was one of 130 (!!) designs exhibited on [FashionX's Runway](https://news.stanford.edu/stories/2025/02/fashionx-brings-the-runway-to-a-sold-out-show-at-memorial-church) this year.
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-    <img src="assets/catherine.png" alt="runway" style="max-width: 60%; height: auto; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/catherine.png" alt="runway" style="max-width: 60%; height: auto; object-fit: contain;">
 </div>
 
 *muslin two-piece with trailing sash, satin accent stripes, gold stud fastenings, wire face and body jewelry; show photos by Emily Gonzalez and Aaron Moses*
@@ -30,13 +30,13 @@ So, I made a dress! My amazing model Catherine debuted it on the runway in Stanf
 *process gallery*
 <div style="display: flex; flex-wrap: wrap;">
     <div style="width: 33.33%; aspect-ratio: 1/1; display: flex; align-items: center; justify-content: center;">
-        <img src="assets/fx_original.jpg" alt="first sketch" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        <img src="{{ site.baseurl }}/assets/fx_original.jpg" alt="first sketch" style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
     <div style="width: 33.33%; aspect-ratio: 1/1; display: flex; align-items: center; justify-content: center;">
-        <img src="assets/fx_middle.jpg" alt="middle sketch" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        <img src="{{ site.baseurl }}/assets/fx_middle.jpg" alt="middle sketch" style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
     <div style="width: 33.33%; aspect-ratio: 1/1; display: flex; align-items: center; justify-content: center;">
-        <img src="assets/fx_latest.jpg" alt="latest sketch" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        <img src="{{ site.baseurl }}/assets/fx_latest.jpg" alt="latest sketch" style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
 </div>
 
@@ -50,10 +50,10 @@ Clearly my actual dress retains none of the original sketch, and (generously) is
 
 <div style = "display: flex; flex-wrap: wrap;">
     <div style="width: 50%; aspect-ratio: 1/1; display: flex; align-items: center; justify-content: center;">
-        <img src="assets/dschool2.jpg" alt="" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        <img src="{{ site.baseurl }}/assets/dschool2.jpg" alt="" style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
     <div style="width: 50%; aspect-ratio: 1/1; display: flex; align-items: center; justify-content: center;">
-        <img src="assets/wire.jpg" alt="me trying on the face jewelry" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        <img src="{{ site.baseurl }}/assets/wire.jpg" alt="me trying on the face jewelry" style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
 </div>
 

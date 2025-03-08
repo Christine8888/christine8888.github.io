@@ -15,8 +15,10 @@ layout: null
             <a href="/"><< back</a>
         </div>
 
+        {% assign post_collection = site.collections | where: "label", "published" | first %}
+        {% assign sorted_posts = post_collection.docs | sort: "date" | reverse %}
 
-        {% for post in site.posts %}
+        {% for post in sorted_posts %}
             {% unless post.path contains 'private' %}
                 <a href="{{ post.url | relative_url }}" style="color: #5345c2;"> 
                     <span>{{ post.date | date: "%m/%y" }}</span>

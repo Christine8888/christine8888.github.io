@@ -10,9 +10,20 @@ plugins:
 theme: minima
 
 permalink: /:title.html
-include:
-  - _posts/_private
-  - _private
+source: .
+destination: _site
+
+collections_dir: _all_posts
+collections:
+  published:
+    output: true
+    permalink: /:title.html
+  private:
+    output: true
+    permalink: /:title.html
+  drafts:
+    output: false
+    
 
 exclude:
   - .sass-cache/

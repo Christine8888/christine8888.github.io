@@ -11,9 +11,14 @@ layout: null
 <body class="blog-list-body">
     
     <div class="container blog-list-container">
-        <div class="back-button">
-            <a href="/"><< back</a>
-        </div>
+        <header>
+            <div class="nav-buttons">
+                <a href="index.html" class="nav-button">me</a>
+                <a href="work.html" class="nav-button">work</a>
+                <a href="blog.html" class="nav-button active">writing</a>
+                <a href="gallery.html" class="nav-button">gallery</a>
+            </div>
+        </header>
 
         {% assign post_collection = site.collections | where: "label", "published" | first %}
         {% assign sorted_posts = post_collection.docs | sort: "date" | reverse %}

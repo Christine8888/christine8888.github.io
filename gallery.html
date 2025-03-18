@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Christine Ye - Gallery</title>
+  <meta name="description" content="favorite images">
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="home-body">
+    <div class="container home-container">
+        <header>
+            <div class="nav-buttons">
+                <a href="index.html" class="nav-button">me</a>
+                <a href="work.html" class="nav-button">work</a>
+                <a href="blog.html" class="nav-button">writing</a>
+                <a href="gallery.html" class="nav-button active">gallery</a>
+            </div>
+        </header>
+
+        <section id="gallery" class="content-section active">
+            <div class="image-container" style="padding: 48px 0;">
+                <button id="newPictureButton" style=
+                "display: block; 
+                margin: 0 auto 20px; 
+                padding: 8px 16px;
+                border: none;
+                border-radius: 8px;
+                cursor: pointer;
+                background-color: #e5e7eb;
+                color: #374151;"
+                >new picture</button>
+                <img id="randomImage" src="" alt="Random gallery image" style="width: 35%; display: block; margin: 0 auto;">
+            </div>
+        </section>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const randomImage = document.getElementById('randomImage');
+            const newPictureButton = document.getElementById('newPictureButton');
+            const allImagesContainer = document.getElementById('allImages');
+            const galleryFolder = 'gallery/';
+            let images = [];
+            
+            fetch('images.json')
+                .then(response => response.json())
+                .then(jsonData => {
+                    images = jsonData;
+                    getRandomImage();
+                    displayAllImages();
+                })
+                .catch(err => {
+                    console.error('Error fetching images.json:', err);
+                });
+
+            function getRandomImage() {
+                if (images.length === 0) return;
+                const randomIndex = Math.floor(Math.random() * images.length);
+                const randomImageSrc = galleryFolder + images[randomIndex].filename;
+                randomImage.src = randomImageSrc;
+                randomImage.alt = images[randomIndex].description || 'Gallery image';
+            }
+            
+            function displayAllImages() {
+                // Create a static display of all gallery images for SEO and navigation
+                images.forEach(image => {
+                    const imgElement = document.createElement('img');
+                    imgElement.src = galleryFolder + image.filename;
+                    imgElement.alt = image.description || 'Gallery image';
+                    imgElement.style.width = '150px';
+                    imgElement.style.height = '150px';
+                    imgElement.style.objectFit = 'cover';
+                    
+                    allImagesContainer.appendChild(imgElement);
+                });
+            }
+            
+            newPictureButton.addEventListener('click', getRandomImage);
+        });
+    </script>
+</body>
+</html>

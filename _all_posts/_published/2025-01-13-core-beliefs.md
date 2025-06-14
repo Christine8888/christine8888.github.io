@@ -20,10 +20,10 @@ categories: general
 - intentionally go against your intuitions sometimes, just to check for self-deception
 
 *miscellaneous*
-- I love to coiner and mutate of n-grams, with lifespans from ~hours to ~months
+- I love to coin and mutate of n-grams, with lifespans from ~hours to ~months
 
 
 
 
 
-[^1]: but I also like viewing myself, and others, as instruments through which greater unconscious aesthetic forces can flow
+[^1]: but also view people as instruments through which greater unconscious aesthetic forces can flow

@@ -11,10 +11,12 @@
             "id": "5679a119ef8be51d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "_site/assets/ARTHIST 1B Final Paper.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ARTHIST 1B Final Paper"
             }
           }
         ]
@@ -153,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,6 +166,7 @@
   },
   "active": "5679a119ef8be51d",
   "lastOpenFiles": [
+    "_includes/icon-github.svg",
     "_posts/2024-08-27-ins-and-outs.md"
   ]
 }

@@ -30,6 +30,17 @@ Several times I found myself putting together a rough sketch, thinking it looked
 
 One humbling realization from vectorizing my drawings today: sometimes things look different, and even better, in the intended medium. I probably went through another 50 pencil sketches, only to discard ~all the ideas I had pursued and create directly in Illustrator.
 
+11.23.25
+
+So, it's certainly been a while since I've updated this log, but here are my bullet-pointed reflections on what I think I've taken away from the class:
+- When I compare the critiques I would give to a piece to those of my instructor (the wonderful [John Edmark](https://www.johnedmark.com/)), I notice I tend to be much more critical of the actual idea; there are many things I just find kind of weird, or distasteful. John is impressively open to ideas -- in fact, he seems to think most ideas, when articulated with intention, have the potential to be good -- and much more of a stickler for execution. Of course, he's quick to point out when a student's idea hasn't quite worked out, but this is an empirical observation based on the actual end product, and not an ex ante assessment.
+    - In general, quality of craft has been a big theme of this class. It is amazing how much extra labor and love goes into turning a piece from passably constructed to nearly perfect; very much a power law.
+- A theme of the class is working around constraint, both as a core requirement of design as a profession, and as a tool to increase one's creativity. John regularly gave us somewhat arbitrary limitations on the format or themees of our work. One intuition here is by constraining the possibility space, it becomes much more tractable to do deep search and to find something truly interesting. There is a sort of paralysis by choice in too-large search spaces that can lead to boring work; you need to be able to actually follow threads of ideas to their limit
+    - Creativity needs a problem to chafe against
+- In general, the Design degree programs at Stanford are very much about self-teaching and building one's own practice (of course, with the support of a technically talented peer group). This is almost completely in contrast with e.g. the Mathematics major, which I did for my undergrad. 
+
+I'll do at least one more update before the end of the quarter, probably when we compile all our projects.
+
 [^texture]: yes, I have 3 textures due Thursday, thanks!
 
-[^candy]: a set of my guilty intellectual pleasures is grand theories about societal collapse, talent picking, religion, etc.
+[^candy]: one of my guilty intellectual pleasures is grand theories about societal collapse, talent picking, religion, etc.

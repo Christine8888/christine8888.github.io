@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "candid thoughts on ReplicationBench"
+date:   2025-11-24 00:00
+categories: general
+---
+
+[ReplicationBench](https://github.com/Christine8888/replicationbench-release) was a project I worked on primarily March through May 2025. One issue I have with publishing the standard arXiv paper / codebase / Tweet thread package is that it *still* leaves little room for unpolished, but hopefully interesting, personal opinions. In general the ideas below are unorganized, and supported only by my qualitative observations.
+
+### More background on the project
+- The core goals of this project were A) to do a systematic study on the usefulness of agents for astrophysics, B) to develop an evaluation framework that was easily extensible by purely volunteer effort from the astrophysics community, and C) to calibrate everyone involved on the performance highlights and lowlights of agents on real research tasks.
+    - I enjoyed thinking about low-budget benchmarking: how does an individual or community with a wealth of niche knowledge, but relatively few resources, play the game of evaluating language models for their use cases? The most natural version of this is the personal private test sets, or even single prompts, that [people](https://x.com/emollick/status/1991709695414006073) [on](https://x.com/littmath/status/1993051719157399903?s=20) [X](https://x.com/KelseyTuoc/status/1912945346126417940?s=20) have. If instead the entity was a university science department, I imagine the process might look something like ReplicationBench: a group of volunteers decides to compile a small, high-quality dataset through low-cost means.
+- The actual origin story goes something like: around the release of o1, I tried asking it to replicate my very first first-author paper, which did some relatively simple Bayesian inference for a population modeling program. Sometimes the code it wrote didn't run out of the box, but generally it captured much of the core idea. When I spoke to people around [KIPAC](https://kipac.stanford.edu/) most seemed surprised by this! This paper actually did make it into the benchmark; the best model performance was ~50%
+- My role was mostly project management and technical driving, i.e. making sure the data was annotated, the evaluations were run, and the results were discussed.
+
+### On differences between model performance
+- I generally don't love blanket statements about models' personalities or tendencies, but I'll offer some rapid-fire impressions. o3 and o4-mini are both quite terse and *really* love to give up early. GPT-5, while an extension of the o-series thinking paradigm, seems a lot smoother and more persistent. Sonnet 3.7 and o4-mini are the most prone to reward hacking; I caught a handful of issues with the masking by looking through suspiciously high traces from them. Compared to Sonnet 3.7, Sonnet 4 is less persistent and resourceful. Sonnet 4.5 is much better at coding, particularly on the "writing efficient code to avoid timeouts" front. Gemini 2.5 Pro is strangely bad at tool-calling and writing efficient code; I'll add Gemini 3 once the API becomes more stable.
+- I think the end-result evaluation certainly makes the benchmark challenging, but partly for the wrong reasons. One big issue is that the replication process has a long chain of dependencies, and an early error can throw off ~all later calculations. Hence the best-of-N scores are substantially higher than the average scores. I find this annoying due to the noise it introduces into the evaluations, but generally realistic for a long-horizon agent task.
+
+### On qualitative feedback
+- Frontier model benchmarking seems to have moved towards fewer individual problems (or even one single environment, in the case of [VendingBench](https://arxiv.org/abs/2502.15840)), each of which is substantially richer. Along these lines, I'm actually less and less convinced that benchmarks are useful as pure numeric measurements that allow us to do an apples-to-apples comparison. I expect the main long-term utility of ReplicationBench to be the 20 unique, high-quality agent environments, which have already helped reveal all sorts of interesting agent behavior.
+- That being said, I wasn't convinced that rubrics (in the style of [ResearchRubrics](https://scale.com/research/researchrubrics) or [GDPVal](https://openai.com/index/gdpval/)) were the solution for our use case. On one hand, we deliberately chose papers where the core result of the paper *was* some exact value, and so had pretty high trust in the usefulness of exact-match grading. On the other hand, some of the procedures required for ReplicationBench tasks were so subtle and precise that it was really most informative for experts to read and annotate traces directly. It was hard for the team to justify the annotation and LLM-judge costs of using rubrics, which sit between these two extremes on the cost-expressiveness frontier.
+
+### On the future of AI-assisted science
+- We ran a round of expert evaluations (also volunteers) relative early in the project, and the outputs were quite interesting. To give you a sense of the failure modes, here are some quotes:
+    - "I found several errors with respect to the instructions of the task, some of which are noted in the paper, while others depend more on understanding the process behind the different sub-tasks. Below I list a couple of examples. (1) pPXF fitting of the stellar population: the agent didn't use the pPXF library correctly, and did not resample the spectrum before providing it as an input to the python library function. (ii) When fitting the emission lines, it arbitrarily set the wavelength range in which the fit takes place to be some width, and this width does not include all the emission lines that are being fitted, and so the chi_square does not reflect the goodness of the fit in these regions."
+    - "The model ended up not doing the fit, just 'estimated via visual inspection'"
+    - "The model was completely unable to complete the final task. It looks for the relevant data in the dataset but cannot find the relevant value explicitly so it gives up. The value in question should be inferred from multiple explanations in the paper."
+- I find that just reading reasoning or code comments is often sufficient to catch the most obvious places where the model deviates from the spec. Models appear pretty honest in this regard and will point out e.g. when they're using a fallback answer or skipping some procedure. However, there are plenty of errors that fly completely over my head
+- My impression from sharing ReplicationBench with other astrophysics researchers is that the field is already rather jaded towards language models. For example, after a talk I gave on this work earlier this year, I was sitting with a couple faculty members who lamented how in a few years the "scientific commons" might be over-run with "slop".
+
+### On experiments I'd like to do
+- [METR uplift](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)-style experiment: what sorts of human-AI protocols (e.g. "AI can call on human for help", or "human solves replication task with help of AI") are most useful?
+- Let's say we have X set of transcripts with relatively non-obvious failures. How hard is identifying the failure for a lay person vs. an astrophysicist in a different sub-field vs. an astrophysicist in that exact field? How many bugs are already quite super-human, and only noticable to a very narrow set of human experts?
+- Given Y transcripts and an expert that in theory would be able to identify the "subtle bugs", how can we help the expert identify the bugs as efficiently as possible? Note this is basically a scalable oversight problem.
+
+&nbsp;
+
+&nbsp;

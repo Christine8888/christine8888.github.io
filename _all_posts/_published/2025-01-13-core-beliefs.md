@@ -20,7 +20,7 @@ categories: general
 - intentionally go against your intuitions sometimes, just to check for self-deception
 
 *miscellaneous*
-- I love to coin and mutate of n-grams, with lifespans from ~hours to ~months
+- I love to coin and mutate n-grams, with lifespans from ~hours to ~months
 
 
 

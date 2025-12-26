@@ -41,6 +41,14 @@ So, it's certainly been a while since I've updated this log, but here are my bul
 
 I'll do at least one more update before the end of the quarter, probably when we compile all our projects.
 
+12.20.25
+
+So, the class is over! I guess I wish I could say the class changed my life in some tangible way, although I'm at least glad I did get around to taking my d.school class. And I did enjoy [working in the d.school](https://christine8888.github.io/making-a-dress.html) as always. Just to record some takeaways:
+- Creative practice is very much about investment; in other words, you get out what you put in. I admit that my creative practice was not much of a priority this quarter and often came to feel like an inconvenient obligation, although sometimes a welcome one. I felt that I wanted to upper bound the amount of time and thought I was willing to put into each assignment, and to relegate the process to scheduled blocks which fit around my other work.
+    - I really enjoy watching people I admire discuss their creative practices, but a common throughline is the need for sustained obsessive focus, and often isolation, to really feel creative instinct. Everything I created this quarter was a nice exercise, and maybe contained a few interesting ideas, but never quite felt flow-state-like
+    - A lesson I feel I learn over and over is that there are no silver bullet solutions; taking this course did not really cure my amorphous desires to "create more in the real world" 
+- On the other hand, I'll happily admit I really enjoy doing narrowly-scoped, simple crafts (little bits of embroidery, painting, wire-jewelry-making, etc.)! I would happily repeat the motions of the projects I did, even if not towards a larger project or even a keepsake-worth piece. I'm hoping to invest more in a "single-use crafts with friends" practice next year
+
 [^texture]: yes, I have 3 textures due Thursday, thanks!
 
-[^candy]: one of my guilty intellectual pleasures is grand theories about societal collapse, talent picking, religion, etc.
+[^candy]: one of my guilty intellectual pleasures is grand theories about societal collapse, talent picking, religion, etc.; ashamed to admit *Guns, Germs, and Steel* was the best book I read in 2016

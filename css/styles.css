@@ -19,9 +19,14 @@ sup {
     line-height: 0;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+@media (max-width: 600px) {
+    div[style*="display: flex"] {
+        max-width: 100%;
+        overflow: hidden;
+    }
+    div[style*="display: flex"] img {
+        min-width: 0;
+    }
 }
 
 .footnote-popup {

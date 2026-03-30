@@ -5,26 +5,25 @@ date:   2026-02-22 17:00
 categories: general
 ---
 
-As the title suggests, I made another dress! In brief: ruffled blue organza on a nude lining, bejeweled with teal rhinestones. 
+As the title suggests, I made another dress! 
 
-Some background: every year [Stanford FashionX](https://www.instagram.com/stanfordfashionx/?hl=en) puts on a student-produced, student-designed, student-modeled [runway show](https://ose.stanford.edu/news/reflecting-fashionx-runway-2026-mirror-stage). This year we [braved the controversy](https://stanfordreview.org/fashionx-violates-sanctity-of-memorial-church/) to again host the show in Memorial Church; see [some](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-14_0.jpg?itok=pLSKkNUz) [other](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-23_0.jpg?itok=EeF2oajs) [designs](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-52_0.jpg?itok=2mypenW6) [I](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-59_0.jpg?itok=oZS2u4l7) [loved](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-53_0.jpg?itok=XZ3a5DR9). Most of the work described took place between February 13[^offer] to February 27, 2026.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/anushka_stage.jpeg" alt="stage view" style="max-height: 40vh; width: auto; object-fit: contain;">
     <img src="{{ site.baseurl }}/assets/dress_2/anushka_side.jpeg" alt="side view" style="max-height: 40vh; width: auto; object-fit: contain;">
 </div>
 
-And flowers for my model Anushka! She was the perfect muse for this piece and wore it beautifully.
+Some background: every year [Stanford FashionX](https://www.instagram.com/stanfordfashionx/?hl=en) puts on a student-produced, student-designed, student-modeled [runway show](https://ose.stanford.edu/news/reflecting-fashionx-runway-2026-mirror-stage). This year we [braved the controversy](https://stanfordreview.org/fashionx-violates-sanctity-of-memorial-church/) to again host the show in Memorial Church; see [some](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-14_0.jpg?itok=pLSKkNUz) [other](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-23_0.jpg?itok=EeF2oajs) [designs](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-52_0.jpg?itok=2mypenW6) [I](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-59_0.jpg?itok=oZS2u4l7) [loved](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-53_0.jpg?itok=XZ3a5DR9). Most of the work described took place between February 13[^offer] to February 27, 2026.
 
 &nbsp;
 
-i. [the process](#the-process)
+i. [the construction](#the-construction)
 
 ii. [broader reflections](#broader-reflections)
 
 &nbsp;
 
-<h3 id="the-process">i. the process</h3>
+<h3 id="the-construction">i. the construction</h3>
 
 Many of the show's designs either had specific concepts (see [our opener](https://www.instagram.com/p/DVmg86aAa69/?img_index=1)), or directly reflected (lol) the overall Runway theme (["The Mirror Stage"](https://en.wikipedia.org/wiki/Mirror_stage)[^theme]). My "creative process" was only loosely guided by concepts, and was instead motivated by the following:
 
@@ -39,18 +38,17 @@ Many of the show's designs either had specific concepts (see [our opener](https:
 
 First I was drawn to variants of a thin strap slip gown with thin lines of ruffles all over the skirt, and spent a while playing with the shape of the dress and the placement of the ruffles. My original plan was to make the entire dress out of gold satin basted with the blue organza, so the satin would maintain the lustre the organza while also being opaque enough to be wearable[^claude]. Once I bought the satin, I made it through the whole process of [assembling the pattern / cutting the pieces / beginning sewing] before I realized that unfortunately the colors did not mix well at all: at certain angles the basted fabric was a dull purple. Back to the drawing board!
 
-I ended up buying and testing out a couple more dress patterns and fabrics while trying to figure the dress design out. It was almost completely unhelpful for me to try and do sketches; instead, I would just *really think about* the idea and see if I liked it. I eventually settled on an understanding of what the skirt should look like:
+To figure out the design, I ended up buying and testing out ~3 more dress patterns and fabrics. Interestingly, I found sketching basically useless for narrowing down the concept. I eventually settled on a basic understanding of what the skirt should look like: a nude inner slip layer with tiered layers of ruffled organza, packed densely enough that there were no exposed areas of the slip. Thankfully, I also derisked the fabric layering this time. 
 
-- Skin-tone (roughly) inner layer
-- Tiered layers of ruffled organza, packed densely enough that there were no exposed areas of the slip
+&nbsp;
 
-At this point I had enough of an idea to start working on the dress, and sufficiently high certainty that I wouldn't have to completely scrap my work. I also derisked the color layering this time, thankfully. First I needed to sew the inner slip. This part is very formulaic: print and assemble a pattern (or drape and pin fabric, but at this point I hadn't bought the mannequin yet), cut fabrics, stitch up all seams.
+First I needed to sew the inner slip. This part was very formulaic: print and assemble a pattern (you can alsos drape fabric directly, but at this point I hadn't bought the mannequin), cut the fabric pieces, stitch up all the seams.
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/slip_sewing.jpeg" alt="sewing the slip" style="max-width: 60%; height: auto; object-fit: contain;">
 </div>
 
-Then came the ruffles! These I sewed on layer by layer starting from the bottom. If you look at the dress up close you'll notice that over time I got much better at sewing straight, parallel lines. The first few were really quite bad. It's hard to sew really elastic fabrics! Below you can see (left) how I pinned the ruffles on the slip to get a visual idea of the concept and (right) my initial sewing machine strategy, which was (inexplicably ???) to feed the fabric horizontally.
+Then came the ruffles! These I sewed on layer by layer starting from the bottom. If you look at the dress up close you'll notice I started off very, very bad at sewing straight, parallel lines. It's hard to sew elastic fabrics! Below you can see (left) how I pinned the ruffles on the slip to get a visual idea of the concept and (right) my initial sewing machine strategy, which was (???) to feed the fabric horizontally.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/laid_out.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
@@ -66,22 +64,22 @@ Then I sewed through my finger! No, seriously. One moment the sewing machine was
     </div>
 </div>
 
-After much-needed ibuprofen, bandaids, amoxicillin, and three wine tastings in Napa, I returned to the site of my mishap to continue the project of layering of ruffles. This time things went better! Later I also had the idea to add a matching ruffle around the top of the bodice, to drape over the shoulders and tie in the back. Then I sewed up the final seam, which considering the volume of ruffles, was quite the task, and sloppily following a YouTube tutorial, added an invisible zipper. 
+After ibuprofen, bandaids, amoxicillin, and three wine tastings in Napa, I returned to the site of my mishap to finish the project of layering of ruffles. I also had the idea to add a matching ruffle around the top of the bodice, to drape over the shoulders and tie in the back. Then I sewed up the final seam, which involved negotiating with quite the volume of ruffles, and added the invisible zipper. Originally my plan was to complete the piece by resin molding a corset out of the organza, but when I saw just the skirt and top ruffle I felt it was actually better off without the corset. 
 
-Originally my plan was to resin mold a corset out of the same organza, but when I saw just the skirt and top ruffle I felt it was better off without the corset. Finally, it turned out that from my sloppy accounting for the seam allowances, and the natural ruching of the elastic fabric as I added ruffles, the diameter of the skirt was between 3 and 12 inches off at various points. I ended up just hanging the dress on the mannequin and free-handing an additional triangle panel for the back, stitching ruffles in the same spacing, and hand sewing the ruffle seams.
+It turned out that, from my sloppy accounting for the seam allowances, and the accidental scrunching of the base fabric as I added ruffles, the diameter of the skirt was between 3 and 12 inches too short at diferent points. I ended up just free-handing an additional triangle panel for the back, stitching ruffles in the same spacing, and hand sewing the ruffle seams.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/sewing_it_up.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
     <img src="{{ site.baseurl }}/assets/dress_2/all_ruffles.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
 </div>
 
-At this point the 80% of the dress was done; the front is almost visually identical between this iteration and the final dress. For the week leading up to the show I kept the dress on a mannequin in the corner of my room. Thus I was always being reminded of the dress, and I was even more chronically late than usual because sometimes I would get an idea for an adjustment on the way out[^barbie].
+At this point the 80% of the dress was done; the front was almost visually identical between this iteration and the final dress. For the week leading up to the show I kept the dress on a mannequin in the corner of my room. Thus the dress was always top of mind, and I was even more chronically late than usual because sometimes I would get an idea for an adjustment on the way out[^barbie].
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/dress_in_room.jpeg" alt="dress" style="max-width: 60%; height: auto; object-fit: contain;">
 </div>
 
-In the week leading up to the show I mostly agonized over small details. First, I mended some stitching mistakes and covered the bodice in glittery eye shadow[^sparkle]. When I saw the dress at rehearsal I knew I needed to fix a few issues: the glitter wasn't visible at all, the bodice looked way too plain and unfinished, and the skirt shape didn't have enough drama in the back. 
+In the week leading up to the show I mostly agonized over small details. I mended some stitching mistakes and covered the bodice in glitter[^sparkle]. When I saw the dress at rehearsal I knew I needed to fix a few issues: the glitter wasn't visible at all, the bodice was boring and looked unfinished, and the skirt didn't have enough drama in the back. 
 
 I stressed over the visuals for another afternoon and then
 - Added a second, thinner layer to the ruffle at the top of the bodice
@@ -100,29 +98,29 @@ The B7000 wasn't even fully cured by showtime, but everything went super well! S
 
 <h3 id="broader-reflections">ii. broader reflections</h3>
 
-**On obsession and my work style**: As I [learned in 2025](https://christine8888.github.io/2025-reflections.html), I find it extremely hard to be productive in small time blocks. I have now come to terms with a more aggressive statement of my preferences: that I am most productive and most excited when I have ~unbounded time and an obsession with *finishing the thing*. The obsession with the task need not exist ex ante, and in fact it rarely does. It tends to appear a few hours in, accompanying a psychological state that could maybe be called a flow state, but feels more like tunnel vision.
+**On obsession and my work style**: As I [learned in 2025](https://christine8888.github.io/2025-reflections.html), I find it extremely hard to be productive in small time blocks. I have now come to terms with a more aggressive statement of my preferences: that I am most productive and most excited when I have ~unbounded time and an obsession with *finishing the thing*. The obsession need not exist beforehand, and in fact it rarely does. Rather, it usually appears a few hours in, accompanying a psychological state that could maybe be called a flow state, but feels more like tunnel vision.
 
-It's a weird state for sure! It leads to strange, almost out-of-character things, like sewing through your hand during hour 10 at the d.school or pulling an all-nighter on a pretraining leaderboard or spending an entire flight to Japan looking at apartment photos. I feel it in mild forms maybe once or twice per day, including basically every time I go down a research rabbit hole or work on a blog post; once started it simply has to be completed. In more extreme forms, maybe once or twice a month? I'd like to do a better job of tracking this.
+It's a weird state for sure! It leads to strange, almost out-of-character behaviors, like sewing through your hand during hour 10 at the d.school or pulling an all-nighter on a pretraining leaderboard or spending an entire flight to Japan looking at apartment walkthroughs. I feel it in mild forms maybe once or twice per day, including basically every time I go down a research rabbit hole or work on a blog post; once started it simply has to be completed. In more extreme forms, maybe once or twice a month? I'd like to do a better job of tracking this.
 
-For the most part I do like it. I certainly feel very alive, and I have stamina and determination not regularly accessible to me, and it helps me be attuned to the things that I derive the greatest pleasures from working on. My main gripe is not the derailing of my life's routines -- that surely is worth it -- but that it almost always leads to me working past the point of exhaustion, and quite often to the point of negative marginal returns. I make stupid mistakes setting up experiments, or get in skiing crashes because my muscles physically can't generate correct technique anymore, or find myself searching for another problem to solve, another bump of the feeling of forward progress. It is glorious until it is dangerous, but it would feel somehow insulting to call it quits prematurely.
+For the most part I do like it. I certainly feel very alive, and I have stamina and determination not regularly accessible to me, and it helps me be attuned to the things that I derive the greatest pleasures from working on. My main gripe is not the derailing of my life's routines -- that surely is worth it -- but that it almost always leads to me working past the point of exhaustion, and quite often to the point of negative marginal returns. I make stupid mistakes setting up experiments, or get in skiing crashes because my muscles physically can't generate correct technique anymore, or find myself searching for another problem to solve, another bump of the feeling of forward progress. It is glorious until it is dangerous, but still it would feel somehow insulting to call it quits prematurely.
 
-Still, I feel confident in saying I am much more productive with a specific goal in mind, especially one that requires a bunch of instrumental learning, and perhaps one that can tolerate a bit of sloppiness[^sloppiness]. So the upshot is, I should think less about pursuing [practices](https://christine8888.github.io/2025-reflections.html#:~:text=I%20will%20be%20calling%20anything%20that%20involves%20regular%20and%20compounding%20effort%20over%20sustained%20periods%20of%20time%20a%20%E2%80%9Cpractice%E2%80%9D.) and more about pursuing *projects*. I am going to learn how to ski trees, or I am going to run a half marathon[^habit], or I am going to finish this dress. 
+Still, I feel confident in saying I am much more productive with a target in mind, especially one that requires a bunch of instrumentally interesting learning, and perhaps one that can tolerate a bit of sloppiness[^sloppiness]. So the upshot is, maybe I should think less about pursuing [practices](https://christine8888.github.io/2025-reflections.html#:~:text=I%20will%20be%20calling%20anything%20that%20involves%20regular%20and%20compounding%20effort%20over%20sustained%20periods%20of%20time%20a%20%E2%80%9Cpractice%E2%80%9D.) and more about pursuing *projects*. I am going to learn how to ski trees, or I am going to run a half marathon[^habit], or I am going to finish this dress. 
 
 &nbsp;
 
-**On runway as a medium**: Couture shows are generally either haute couture (see [Iris van Herpen AW25](https://www.irisvanherpen.com/collections/sympoiesis), [Schiaparelli SS26](https://schiaparelli.com/en/pages/haute-couture-printemps-2026)) or ready-to-wear (see [Dior AW27 at Jardin des Tuileries](https://www.dior.com/en_us/fashion/womens-fashion/ready-to-wear-shows/autumn-winter-2026-2027-show)). Unsurprisingly, I find haute couture much more interesting; it is fashion at its most extravagant, designed only for visual impact without the trite constraints of "wearability" or "conduciveness to mass production". Pieces are often one-of-a-kind, and as the Met taught us in summer 2024, some of the most iconic [haute](https://www.metmuseum.org/exhibitions/sleeping-beauties-reawakening-fashion/grass-timelapse) [couture](https://blog.metmuseum.org/alexandermcqueen/dress-voss-2/) [pieces](https://www.vogue.com/article/bella-hadid-spray-dress-coperni) were even designed to walk just once. 
+**On runway as a medium**: Couture shows can generally be categorized into haute couture (see [Iris van Herpen AW25](https://www.irisvanherpen.com/collections/sympoiesis), [Schiaparelli SS26](https://schiaparelli.com/en/pages/haute-couture-printemps-2026)) or ready-to-wear (see [Dior AW27 at Jardin des Tuileries](https://www.dior.com/en_us/fashion/womens-fashion/ready-to-wear-shows/autumn-winter-2026-2027-show)). Unsurprisingly, I find haute couture much more interesting; it is fashion at its most extravagant, designed only for visual impact without the trite constraints of "wearability" or "conduciveness to mass production". Pieces are often one-of-a-kind, and as the Met taught us in summer 2024, some of the most iconic [haute](https://www.metmuseum.org/exhibitions/sleeping-beauties-reawakening-fashion/grass-timelapse) [couture](https://blog.metmuseum.org/alexandermcqueen/dress-voss-2/) [pieces](https://www.vogue.com/article/bella-hadid-spray-dress-coperni) were even designed to walk just once. 
 
 Some similar dynamics are at play in our runway show.
 - The average viewer sits quite far from the catwalk, so it is quite hard to appreciate fine details from the audience. The pieces need only be sufficiently well-constructed to not literally fall apart on the model.
 - Visual impact is only loosely correlated with construction difficulty or sheer time expended. Two of our 2024 show's most interesting pieces were a sheer dress constructed completely out of tiny hand-assembled chain links, and a structured men's top constructed of macrame placemats stapled together.
-- There are many crowd-pleasing tricks a designer can use, e.g. giant skirts, trains and capes, structured silhouettes, or novel materials. 
+- There are many crowd-pleasing tricks a designer can use, e.g. giant skirts, trains and capes, structured silhouettes, or novel materials.
 
-I thought my piece looked nice on the runway; it's meant to be seen in motion and in diffuse light! And it's actually quite sturdy and wearable, so let me know if you have some occasion to dress vaguely like mermaid royalty. But if I were to design a third time, I'd take fuller advantage of the unique advantages of runway as a medium: leaning fully into ridiculous impracticality for the sake of visual interest.
+I thought my piece looked nice on the runway; it's meant to be seen in motion and in diffuse light! And it's actually quite sturdy and wearable, so do let me know if you have some occasion to dress vaguely like mermaid royalty. But I concede that the show's best pieces more fully embraced the maximalism and impracticality. If I designed a third time, I'd want to create something ridiculous in service of visual interest.
 
 
 &nbsp;
 
-**On seeing the structure of clothing**: Solely from making this dress, I feel that I've picked up a lot of instinctive understanding of how garments are constructed, and how they can be deconstructed into sewing patterns. Every flounce on a skirt is just a semi-circle! All those gorgeous silk dresses with light, easy movement are cut on the bias! All the baddie-slop fast fashion[^edikted] is full of cheap tricks, from open-back / halter / tie-back closures to ruching / shirring, which are just easy patterns that can avoid actually having to fit your body's measurements!
+**On seeing the structure of clothing**: Solely from making this dress, I feel that I've picked up a lot of intuition for how garments are constructed, and how they can be deconstructed into sewing patterns. Every flounce on a skirt is just a semi-circle! All those gorgeous silk dresses with light, easy movement are just cut on the bias! All the baddie-slop fast fashion[^edikted] is full of cheap tricks, from open-back / halter / tie-back closures to ruching / shirring, which are just easy-to-sew patterns that avoid actually having to fit your measurements!
 
 Loosely related: I think I have some mild aphantasia, taking the form of *I could conjure up a reasonable [apple](https://en.wikipedia.org/wiki/Aphantasia), but the image disappears instantaneously*. The creative process became much easier once I had fabrics in hand, and especially once I had enough done to see the piece take shape on a mannequin.
 

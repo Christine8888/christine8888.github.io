@@ -8,7 +8,7 @@ categories: general
 As the title suggests, I made another dress! 
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 0px; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/anushka_stage.jpeg" alt="stage view" style="max-height: 40vh; width: auto; object-fit: contain;">
     <img src="{{ site.baseurl }}/assets/dress_2/anushka_side.jpeg" alt="side view" style="max-height: 40vh; width: auto; object-fit: contain;">
 </div>

@@ -7,7 +7,7 @@ categories: general
 
 As the title suggests, I made another dress! In brief: ruffled blue organza on a nude lining, bejeweled with teal rhinestones. 
 
-Some background: every year [Stanford FashionX](https://www.instagram.com/stanfordfashionx/?hl=en) puts on a student-produced, student-designed, student-modeled [runway show](https://ose.stanford.edu/news/reflecting-fashionx-runway-2026-mirror-stage). This year we [braved the controversy](https://stanfordreview.org/fashionx-violates-sanctity-of-memorial-church/) to again host the show in Memorial Church; see [some](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-14_0.jpg?itok=pLSKkNUz) [other](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-23_0.jpg?itok=EeF2oajs) [designs](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-52_0.jpg?itok=2mypenW6) [I](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-59_0.jpg?itok=oZS2u4l7) [loved](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-53_0.jpg?itok=XZ3a5DR9). I love FashionX!! I ran our Merch team for a year and our finances for a year and a half. I'm glad I pulled something together for my senior show. Most of the work described took place between February 13[^offer] to February 27, 2026.
+Some background: every year [Stanford FashionX](https://www.instagram.com/stanfordfashionx/?hl=en) puts on a student-produced, student-designed, student-modeled [runway show](https://ose.stanford.edu/news/reflecting-fashionx-runway-2026-mirror-stage). This year we [braved the controversy](https://stanfordreview.org/fashionx-violates-sanctity-of-memorial-church/) to again host the show in Memorial Church; see [some](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-14_0.jpg?itok=pLSKkNUz) [other](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-23_0.jpg?itok=EeF2oajs) [designs](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-52_0.jpg?itok=2mypenW6) [I](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-59_0.jpg?itok=oZS2u4l7) [loved](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-53_0.jpg?itok=XZ3a5DR9). Most of the work described took place between February 13[^offer] to February 27, 2026.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/anushka_stage.jpeg" alt="stage view" style="max-height: 40vh; width: auto; object-fit: contain;">
@@ -26,38 +26,38 @@ ii. [broader reflections](#broader-reflections)
 
 <h3 id="the-process">i. the process</h3>
 
-I think other designers had stronger concepts in mind when doing their designs; there were quite a few cultural pieces, pieces with their own themes (see [our opener](https://www.instagram.com/p/DVmg86aAa69/?img_index=1)), and pieces that directly reflected (lol) the theme (["The Mirror Stage"](https://en.wikipedia.org/wiki/Mirror_stage)[^theme]). My "creative process" was mostly guided by the following ideas:
+Many of the show's designs either had specific concepts (see [our opener](https://www.instagram.com/p/DVmg86aAa69/?img_index=1)), or directly reflected (lol) the overall Runway theme (["The Mirror Stage"](https://en.wikipedia.org/wiki/Mirror_stage)[^theme]). My "creative process" was only loosely guided by concepts, and was instead motivated by the following:
 
-- [Last year's design](https://christine8888.github.io/making-a-dress.html) was actually quite simple in terms of technical sewing; in fact, I used a handheld mini sewing machine for all of the seams and hems. So at the very least, I wanted to use a real sewing machine. It was also a true Runway piece, in the sense that the construction was extremely fragile and could not be worn for any real occasion. I wanted to work on a dress that involved more technical construction, which I hoped would force me to actually work on my sewing skill. 
-- I have been lightly obsessed with organza since Sid's [insane piece](https://www.instagram.com/p/DGgsbfiyDsr/?img_index=6) which opened last year's show. Some facts about organza: it is sheer, stiff, thinly woven, extremely prone to fraying, and can be made beautifully iridescent.
-- My beautiful model Anushka! Unfortunately I'm finding it hard to articulate *what exactly about her* inspired this piece, but suffice it to say that I had her in my mind's eye at all times. I think the colors and textures ended up beautifully complementing her skin tone, hair, and features.
-- I had broad visions of: iridescence, ruffles, Victorian-ness, flowers, long flowy dresses, shimmer, delicateness, water, etc.; see my Pinterest board from the project to see how incoherent my thematic inspiration was
+- I had *very* broad visions of: iridescence, ruffles, Victorian-ness, flowers, long flowy dresses, shimmer, delicateness, water, etc.; see my Pinterest board to understand how incoherent my visual inspiration was
+- [Last year's design](https://christine8888.github.io/making-a-dress.html) was actually quite simple in terms of technical sewing; in fact, I used a handheld mini sewing machine for all of the seams and hems. So at the very least, I wanted to use a real sewing machine. It was also a true Runway piece, in the sense that the construction was extremely fragile and could only be worn on display, not for any real occasion. I wanted to work on a dress that involved more technical construction, to force me to actually work on my sewing skill. 
+- I have been lightly obsessed with organza since Sid's [insane piece](https://www.instagram.com/p/DGgsbfiyDsr/?img_index=6) which opened last year's show. Some facts about organza: it is sheer, stiff, thinly woven, extremely prone to fraying, and comes in many beautiful iridescent colors.
+- My beautiful model Anushka! I think the colors and textures ended up beautifully complementing her skin tone, hair, and features, and I had her in mind throughout the entire process.
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/pinterest.png" alt="my Pinterest board" style="max-width: 60%; height: auto; object-fit: contain;">
 </div>
 
-First I envisioned more of a thin strap slip gown with thin lines of ruffles all over the skirt and spent a while playing with the shape of the dress and the placement of the ruffles. My original plan was to make the entire dress out of gold satin basted with the blue organza, so the satin would maintain the lustre the organza while also being opaque enough to be wearable (FYI Claude also thought this was a good idea, which I should have known was a bad sign). Once I actually bought the satin, I made it through the whole process of [assembling the pattern / cutting the pieces / beginning sewing] before I realized that unfortunately the colors did not mix well at all: at certain angles the basted fabric was a dull purple. Back to the drawing board!
+First I was drawn to variants of a thin strap slip gown with thin lines of ruffles all over the skirt, and spent a while playing with the shape of the dress and the placement of the ruffles. My original plan was to make the entire dress out of gold satin basted with the blue organza, so the satin would maintain the lustre the organza while also being opaque enough to be wearable[^claude]. Once I bought the satin, I made it through the whole process of [assembling the pattern / cutting the pieces / beginning sewing] before I realized that unfortunately the colors did not mix well at all: at certain angles the basted fabric was a dull purple. Back to the drawing board!
 
 I ended up buying and testing out a couple more dress patterns and fabrics while trying to figure the dress design out. It was almost completely unhelpful for me to try and do sketches; instead, I would just *really think about* the idea and see if I liked it. I eventually settled on an understanding of what the skirt should look like:
 
 - Skin-tone (roughly) inner layer
 - Tiered layers of ruffled organza, packed densely enough that there were no exposed areas of the slip
 
-At this point I had enough of an idea to start working on the dress, and sufficiently high certainty that I wouldn't have to completely scrap my work. I also tested the color layering in advance this time, thankfully. Step one was to sew the inner slip. This part is very formulaic: print and assemble a pattern (or cut pieces via draping, but at this point I didn't have a mannequin), cut fabrics, stitch all seams.
+At this point I had enough of an idea to start working on the dress, and sufficiently high certainty that I wouldn't have to completely scrap my work. I also derisked the color layering this time, thankfully. First I needed to sew the inner slip. This part is very formulaic: print and assemble a pattern (or drape and pin fabric, but at this point I hadn't bought the mannequin yet), cut fabrics, stitch up all seams.
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/slip_sewing.jpeg" alt="sewing the slip" style="max-width: 60%; height: auto; object-fit: contain;">
 </div>
 
-Then came the ruffles! These I sewed on layer by layer starting from the bottom. If you look at the dress up close (which you probably can, since I'll be keeping it in my SF apartment) you'll notice that I got marginally better at sewing straight, parallel lines over time. The first few were quite bad. It's hard to sew really elastic fabrics! Below you can see (left) how I pinned the ruffles on the slip to get a visual idea of the concept and (right) my initial sewing machine strategy, which was (inexplicably) to feed the fabric horizontally.
+Then came the ruffles! These I sewed on layer by layer starting from the bottom. If you look at the dress up close you'll notice that over time I got much better at sewing straight, parallel lines. The first few were really quite bad. It's hard to sew really elastic fabrics! Below you can see (left) how I pinned the ruffles on the slip to get a visual idea of the concept and (right) my initial sewing machine strategy, which was (inexplicably ???) to feed the fabric horizontally.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/laid_out.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
     <img src="{{ site.baseurl }}/assets/dress_2/ruffle_sewing_1.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
 </div>
 
-Then I sewed through my finger! No, seriously. One moment the sewing machine was chugging along, albeit at a somewhat uncomfortably fast clip, and the next there was a sewing needle sticking through the full thickness of my finger. More on how this happened in ii. Shoutout to Alex (?) and his roommate, who just happened to be at the d.school at 10PM on a Saturday and helped clean up the blood on the floor, and shoutout to Mohit for coming to the ER. 
+Then I sewed through my finger! No, seriously. One moment the sewing machine was chugging along at a slightly uncomfortably fast clip, and the next there was a sewing needle through the full depth of my finger. More on how this happened in part ii. Shoutout to Alex and his roommate, who just happened to be at the d.school at 10PM on a Saturday and helped clean up the blood on the floor, and shoutout to Mohit for coming to the ER. 
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <div style="position: relative; max-width: 60%; cursor: pointer;" onclick="this.querySelector('img').style.filter='none'; this.querySelector('.reveal-text').style.display='none';">
@@ -66,26 +66,28 @@ Then I sewed through my finger! No, seriously. One moment the sewing machine was
     </div>
 </div>
 
-After much-needed ibuprofen, bandaids, amoxicillin, and three wine tastings in Napa, I returned to the site of my injury to continue the project of the layers of ruffles. I also had the idea to add a matching ruffle around the top of the bodice, to drape over the shoulders and tie in the back. Then I sewed up the final seam, which considering the volume of ruffles, was quite the task, and sloppily following a YouTube tutorial, added an invisible zipper. Originally my plan was to resin mold a corset out of the same organza, but when I saw just the skirt and top ruffle I felt it was better off without the corset. Finally, it turned out that from my sloppy accounting for the seam allowances, and the natural ruching of the elastic fabric as I added ruffles, the diameter of the skirt was between 3 and 12 inches off at various points. I ended up just hanging the dress on the mannequin and free-handing an additional triangle panel for the back, stitching ruffles in the same spacing, and hand sewing the ruffle seams.
+After much-needed ibuprofen, bandaids, amoxicillin, and three wine tastings in Napa, I returned to the site of my mishap to continue the project of layering of ruffles. This time things went better! Later I also had the idea to add a matching ruffle around the top of the bodice, to drape over the shoulders and tie in the back. Then I sewed up the final seam, which considering the volume of ruffles, was quite the task, and sloppily following a YouTube tutorial, added an invisible zipper. 
+
+Originally my plan was to resin mold a corset out of the same organza, but when I saw just the skirt and top ruffle I felt it was better off without the corset. Finally, it turned out that from my sloppy accounting for the seam allowances, and the natural ruching of the elastic fabric as I added ruffles, the diameter of the skirt was between 3 and 12 inches off at various points. I ended up just hanging the dress on the mannequin and free-handing an additional triangle panel for the back, stitching ruffles in the same spacing, and hand sewing the ruffle seams.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/sewing_it_up.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
     <img src="{{ site.baseurl }}/assets/dress_2/all_ruffles.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
 </div>
 
-At this point the 80% of the dress was done; I realize that the front of the final dress is basically visually identical to ^^. For the week leading up to the show I kept the dress on a mannequin in the corner of my room. Thus I was always being reminded of the dress, and I was even more chronically late than usual because sometimes I would get an idea for an adjustment as I headed for the door[^barbie].
+At this point the 80% of the dress was done; the front is almost visually identical between this iteration and the final dress. For the week leading up to the show I kept the dress on a mannequin in the corner of my room. Thus I was always being reminded of the dress, and I was even more chronically late than usual because sometimes I would get an idea for an adjustment on the way out[^barbie].
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <img src="{{ site.baseurl }}/assets/dress_2/dress_in_room.jpeg" alt="dress" style="max-width: 60%; height: auto; object-fit: contain;">
 </div>
 
-The last 20% of this dress came together in couple-hour spurts of work in the week leading up to the show. First, I mended some stitching mistakes and covered the bodice in glittery eye shadow[^sparkle]. When I saw the dress at rehearsal I knew I needed to fix a few issues: the glitter wasn't visible at all, the bodice looked too plain and unfinished, and the skirt shape, while pretty, didn't have enough drama in the back. 
+In the week leading up to the show I mostly agonized over small details. First, I mended some stitching mistakes and covered the bodice in glittery eye shadow[^sparkle]. When I saw the dress at rehearsal I knew I needed to fix a few issues: the glitter wasn't visible at all, the bodice looked way too plain and unfinished, and the skirt shape didn't have enough drama in the back. 
 
-Upon obsessing over the dress visuals for another afternoon, I made the following changes:
-- Adding a second, thinner layer to the ruffle at the top of the bodice
-- Adding ~5 more organza layers to the lower back hem, tapering about 2 inches per layer on each side, to form a train
-- Replacing the ribbons used to tie the top ruffle around the shoulders with much bigger ribbons which trailed down the back. I had used clear nail-polish to seal the fraying edges of the original ribbons, but this time I sat outside the d.school for 40 minutes running the fabric edges through a candle flame to seal them. Unfortunately some poly fumes were inhaled.
-- Gluing ~200 rhinestones of various sizes onto the bodice, trying my best to [place them randomly](https://en.wikipedia.org/wiki/Random_number_generation#By_humans:~:text=They%20may%20alternate%20too%20much%20between%20choices%20when%20compared%20to%20a%20good%20random%20generator%3B%5B17%5D%20thus%2C%20this%20approach%20is%20not%20widely%20used.)
+I stressed over the visuals for another afternoon and then
+- Added a second, thinner layer to the ruffle at the top of the bodice
+- Added ~5 more organza layers to the lower back hem, tapering about 2 inches per layer on each side, to form a train
+- Replaced the ribbons used to tie the top ruffle around the shoulders with much bigger ribbons which trailed down the back. I had used clear nail-polish to seal the fraying edges of the original ribbons, but this time I sat outside the d.school for 40 minutes running the fabric edges through a candle flame to seal them. Unfortunately some poly fumes were inhaled.
+- Glued ~200 rhinestones of various sizes onto the bodice, trying my best to [place them randomly](https://en.wikipedia.org/wiki/Random_number_generation#By_humans:~:text=They%20may%20alternate%20too%20much%20between%20choices%20when%20compared%20to%20a%20good%20random%20generator%3B%5B17%5D%20thus%2C%20this%20approach%20is%20not%20widely%20used.)
 
 The B7000 wasn't even fully cured by showtime, but everything went super well! See [our show video](https://www.instagram.com/p/DVwI5A7FIc6/).
 
@@ -127,6 +129,8 @@ Loosely related: I think I have some mild aphantasia, taking the form of *I coul
 &nbsp;
 
 &nbsp;
+
+[^claude]: Claude also thought this was a good idea, which I should have known was a bad sign
 
 [^offer]: not so coincidentally the day I signed my offer, lol
 

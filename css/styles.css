@@ -19,14 +19,13 @@ sup {
     line-height: 0;
 }
 
-@media (max-width: 600px) {
-    div[style*="display: flex"] {
-        max-width: 100%;
-        overflow: hidden;
-    }
-    div[style*="display: flex"] img {
-        min-width: 0;
-    }
+.blog-post-container div[style*="display: flex"] {
+    max-width: 100%;
+}
+
+.blog-post-container div[style*="display: flex"] img {
+    min-width: 0;
+    flex-shrink: 1;
 }
 
 .footnote-popup {

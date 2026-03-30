@@ -9,8 +9,8 @@ As the title suggests, I made another dress!
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 0px; width: 100%;">
-    <img src="{{ site.baseurl }}/assets/dress_2/anushka_stage.jpeg" alt="stage view" style="max-height: 40vh; width: auto; object-fit: contain;">
-    <img src="{{ site.baseurl }}/assets/dress_2/anushka_side.jpeg" alt="side view" style="max-height: 40vh; width: auto; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/dress_2/anushka_stage.jpeg" alt="stage view" style="max-height: 40vh; width: auto; min-width: 0; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/dress_2/anushka_side.jpeg" alt="side view" style="max-height: 40vh; width: auto; min-width: 0; object-fit: contain;">
 </div>
 
 Some background: every year [Stanford FashionX](https://www.instagram.com/stanfordfashionx/?hl=en) puts on a student-produced, student-designed, student-modeled [runway show](https://ose.stanford.edu/news/reflecting-fashionx-runway-2026-mirror-stage). This year we [braved the controversy](https://stanfordreview.org/fashionx-violates-sanctity-of-memorial-church/) to again host the show in Memorial Church; see [some](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-14_0.jpg?itok=pLSKkNUz) [other](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-23_0.jpg?itok=EeF2oajs) [designs](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-52_0.jpg?itok=2mypenW6) [I](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-59_0.jpg?itok=oZS2u4l7) [loved](https://ose.stanford.edu/sites/g/files/sbiybj23151/files/styles/breakpoint_2xl_2x/public/media/image/gallery/ose-fx-small-53_0.jpg?itok=XZ3a5DR9). Most of the work described took place between February 13[^offer] to February 27, 2026.
@@ -51,8 +51,8 @@ First I needed to sew the inner slip. This part was very formulaic: print and as
 Then came the ruffles! These I sewed on layer by layer starting from the bottom. If you look at the dress up close you'll notice I started off very, very bad at sewing straight, parallel lines. It's hard to sew elastic fabrics! Below you can see (left) how I pinned the ruffles on the slip to get a visual idea of the concept and (right) my initial sewing machine strategy, which was (???) to feed the fabric horizontally.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
-    <img src="{{ site.baseurl }}/assets/dress_2/laid_out.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
-    <img src="{{ site.baseurl }}/assets/dress_2/ruffle_sewing_1.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/dress_2/laid_out.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; min-width: 0; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/dress_2/ruffle_sewing_1.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; min-width: 0; object-fit: contain;">
 </div>
 
 Then I sewed through my finger! No, seriously. One moment the sewing machine was chugging along at a slightly uncomfortably fast clip, and the next there was a sewing needle through the full depth of my finger. More on how this happened in part ii. Shoutout to Alex and his roommate, who just happened to be at the d.school at 10PM on a Saturday and helped clean up the blood on the floor, and shoutout to Mohit for coming to the ER. 
@@ -69,8 +69,8 @@ After ibuprofen, bandaids, amoxicillin, and three wine tastings in Napa, I retur
 It turned out that, from my sloppy accounting for the seam allowances, and the accidental scrunching of the base fabric as I added ruffles, the diameter of the skirt was between 3 and 12 inches too short at diferent points. I ended up just free-handing an additional triangle panel for the back, stitching ruffles in the same spacing, and hand sewing the ruffle seams.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
-    <img src="{{ site.baseurl }}/assets/dress_2/sewing_it_up.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
-    <img src="{{ site.baseurl }}/assets/dress_2/all_ruffles.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/dress_2/sewing_it_up.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; min-width: 0; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/dress_2/all_ruffles.jpeg" alt="sewing ruffles" style="max-height: 40vh; width: auto; min-width: 0; object-fit: contain;">
 </div>
 
 At this point the 80% of the dress was done; the front was almost visually identical between this iteration and the final dress. For the week leading up to the show I kept the dress on a mannequin in the corner of my room. Thus the dress was always top of mind, and I was even more chronically late than usual because sometimes I would get an idea for an adjustment on the way out[^barbie].
@@ -90,8 +90,8 @@ I stressed over the visuals for another afternoon and then
 The B7000 wasn't even fully cured by showtime, but everything went super well! See [our show video](https://www.instagram.com/p/DVwI5A7FIc6/).
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
-    <img src="{{ site.baseurl }}/assets/dress_2/polaroids.jpg" alt="at the show" style="max-height: 30vh; width: auto; object-fit: contain;">
-    <img src="{{ site.baseurl }}/assets/dress_2/full_show.jpeg" alt="onstage" style="max-height: 30vh; width: auto; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/dress_2/polaroids.jpg" alt="at the show" style="max-height: 30vh; width: auto; min-width: 0; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/dress_2/full_show.jpeg" alt="onstage" style="max-height: 30vh; width: auto; min-width: 0; object-fit: contain;">
 </div>
 
 &nbsp;

@@ -6,3 +6,6 @@ vendor
 .DS_Store
 imagedump.py
 .claude
+# never publish private posts again
+_all_posts/_private/
+_private/

@@ -18,9 +18,6 @@ collections:
   published:
     output: true
     permalink: /:title.html
-  private:
-    output: true
-    permalink: /:title.html
   drafts:
     output: false
     
